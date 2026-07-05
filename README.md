@@ -2,7 +2,7 @@
 
 Guida per l'Alta via dei Giganti
 
-Guardare [Divisione_Tappe](/appunti_divisione_tappe.md) per la suddivsione delle tappe al giorno.
+Guardare [Divisione_Tappe](/appunti_divisione_tappe.md) per la suddivisione delle tappe al giorno.
 
 # LISTA TAPPE
 
