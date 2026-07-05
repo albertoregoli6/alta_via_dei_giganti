@@ -1,6 +1,3 @@
-### AUTOBUS
-https://www.lovevda.it/it/prima-di-partire/come-muoversi/autobus
-
 ### PDF POTENTE
 https://www.lovevda.it/Media/LovevdaResp/Allegati-PDF/ITA_FRA_Alte_Vie.pdf
 
