@@ -3,7 +3,8 @@
 ### Legenda
 - P = prezzo singolo pernottamento (€)
 - Co = prezzo colazione (€)
-- Ce = prezzo colazione (€)
+- Ce = prezzo cena (€)
+- Ci = possibilità di cibo
 
 ---
 
@@ -11,9 +12,9 @@
 Tappa: 6
 Scelta migliore: Vieux Crest
 
-| Rifugio | Tipo | Telefono | Sito | P | P + Co | P + Co + Ce | Note |
-|----------|------|----------|------|:------:|:-------:|:-----------:|------|
-| Vieux Crest | Rifugio | +39 339 1296345 | | | | | |
+| Rifugio | Tipo | Telefono | Sito | P | P + Co | P + Co + Ce | Ci | Note |
+|----------|------|----------|------|:------:|:-------:|:-----------:| :---: |------|
+| Vieux Crest | Rifugio | +39 339 1296345 | | | | | | |
 
 ---
 
@@ -21,12 +22,12 @@ Scelta migliore: Vieux Crest
 Tappa: 7
 Scelta migliore: Grand Tournalin
 
-| Rifugio | Tipo | Telefono | Sito | P | P + Co | P + Co + Ce | Note |
-|----------|------|----------|------|:------:|:-------:|:-----------:|------|
-| Stadel Soussun | Hotel | +39 348 6527222 | | | | | |
-| G. B. Ferraro | Rifugio | +39 328 3285050 / +39 346 3597480 | | | | | |
-| Guide Frachey | Rifugio | +39 329 2113531 | | | | | |
-| Grand Tournalin | Rifugio | +39 345 1506202 / +39 0125 307003 | | | | | |
+| Rifugio | Tipo | Telefono | Sito | P | P + Co | P + Co + Ce | Ci | Note |
+|----------|------|----------|------|:------:|:-------:|:-----------:| :---: |------|
+| Stadel Soussun | Hotel | +39 348 6527222 | | | | | | |
+| G. B. Ferraro | Rifugio | +39 328 3285050 / +39 346 3597480 | | | | | | |
+| Guide Frachey | Rifugio | +39 329 2113531 | | | | | | |
+| Grand Tournalin | Rifugio | +39 345 1506202 / +39 0125 307003 | | | | | | |
 
 **Saint Jacques**
 - 1 Hotel  
@@ -48,10 +49,10 @@ Scelta migliore: Grand Tournalin
 Tappa: 8-9
 Scelta migliore: Barmasse
 
-| Rifugio | Tipo | Telefono | Sito | P | P + Co | P + Co + Ce | Note |
-|----------|------|----------|------|:------:|:-------:|:-----------:|------|
-| Cheneil | Hotel Panorama al Bitch | +39 0166 92019 | | | | | |
-| Barmasse | Rifugio | +39 375 6875114  | | | | | |
+| Rifugio | Tipo | Telefono | Sito | P | P + Co | P + Co + Ce | Ci | Note |
+|----------|------|----------|------|:------:|:-------:|:-----------:| :---: |------|
+| Cheneil | Hotel Panorama al Bitch | +39 0166 92019 | | | | | | |
+| Barmasse | Rifugio | +39 375 6875114  | | | | | | |
 
 **Valtournenche**
 - 1 agriturismo/agrotourisme 
@@ -68,11 +69,11 @@ Scelta migliore: Barmasse
 Tappa: 10
 Scelta migliore: Cuney
 
-| Rifugio | Tipo | Telefono | Sito | P | P + Co | P + Co + Ce | Note |
-|----------|------|----------|------|:------:|:-------:|:-----------:|------|
-| Abri-bivouac Tsan | Bivacco | | | | | | sempre aperto - 9 posti letto |
-| Abri-bivouac Reboulaz | Bivacco | | | | | | sempre aperto - 24 posti letto |
-| Cuney | Rifugio | +39 375 6875114 | | | | | |
+| Rifugio | Tipo | Telefono | Sito | P | P + Co | P + Co + Ce | Ci | Note |
+|----------|------|----------|------|:------:|:-------:|:-----------:| :---: |------|
+| Abri-bivouac Tsan | Bivacco | | | | | | | sempre aperto - 9 posti letto |
+| Abri-bivouac Reboulaz | Bivacco | | | | | | | sempre aperto - 24 posti letto |
+| Cuney | Rifugio | +39 375 6875114 | | | | | | |
 
 ---
 
@@ -80,10 +81,10 @@ Scelta migliore: Cuney
 Tappa: 11
 Scelta migliore: Dortoir (Oyace)
 
-| Rifugio | Tipo | Telefono | Sito | P | P + Co | P + Co + Ce | Note |
-|----------|------|----------|------|:------:|:-------:|:-----------:|------|
-| Rosaire Clermont | Bivacco | | | | | | sempre aperto - 12 posti letto |
-| Dortoir (Oyace) | ??? | +39 0165 730905 | | | | | |
+| Rifugio | Tipo | Telefono | Sito | P | P + Co | P + Co + Ce | Ci | Note |
+|----------|------|----------|------|:------:|:-------:|:-----------:| :---: |------|
+| Rosaire Clermont | Bivacco | | | | | | | sempre aperto - 12 posti letto |
+| Dortoir (Oyace) | ??? | +39 0165 730905 | | | | | | |
 
 ---
 
@@ -91,9 +92,9 @@ Scelta migliore: Dortoir (Oyace)
 Tappa: 12-13
 Scelta migliore: Champillon
 
-| Rifugio | Tipo | Telefono | Sito | P | P + Co | P + Co + Ce | Note |
-|----------|------|----------|------|:------:|:-------:|:-----------:|------|
-| Champillon  | Rifugio | +39 320 2253348 / +39 349 9332958 | | | | | |
+| Rifugio | Tipo | Telefono | Sito | P | P + Co | P + Co + Ce | Ci | Note |
+|----------|------|----------|------|:------:|:-------:|:-----------:| :---: |------|
+| Champillon  | Rifugio | +39 320 2253348 / +39 349 9332958 | | | | | | |
 
 **Rey / Ollomont**
 - 1 B&B — 1 posto tappa/gîte d’étape 
@@ -107,9 +108,9 @@ Scelta migliore: Champillon
 Tappa: 14-15
 Scelta migliore: Pier Giorgio Frassati
 
-| Rifugio | Tipo | Telefono | Sito | P | P + Co | P + Co + Ce | Note |
-|----------|------|----------|------|:------:|:-------:|:-----------:|------|
-| Pier Giorgio Frassati | Rifugio | +39 331 9438054 | | | | | |
+| Rifugio | Tipo | Telefono | Sito | P | P + Co | P + Co + Ce | Ci | Note |
+|----------|------|----------|------|:------:|:-------:|:-----------:| :---: |------|
+| Pier Giorgio Frassati | Rifugio | +39 331 9438054 | | | | | | |
 
 **Saint-Rhémy-en-Bosses**
 - 2 Hotel 
@@ -122,10 +123,10 @@ Scelta migliore: Pier Giorgio Frassati
 Tappa: 16-17
 Scelta migliore: B&B Courmayeur
 
-| Rifugio | Tipo | Telefono | Sito | P | P + Co | P + Co + Ce | Note |
-|----------|------|----------|------|:------:|:-------:|:-----------:|------|
-| Walter Bonatti | Rifugio | +39 335 6848578 / +39 0165 1827229 | | | | | |
-| Giorgio Bertone | Rifugio | +39 347 0325785 | | | | | |
+| Rifugio | Tipo | Telefono | Sito | P | P + Co | P + Co + Ce | Ci | Note |
+|----------|------|----------|------|:------:|:-------:|:-----------:| :---: |------|
+| Walter Bonatti | Rifugio | +39 335 6848578 / +39 0165 1827229 | | | | | | |
+| Giorgio Bertone | Rifugio | +39 347 0325785 | | | | | | |
 
 **Courmayeur**
 - 52 Hotel
@@ -143,38 +144,38 @@ Scelta migliore: B&B Courmayeur
 
 ### 18 agosto 2026
 
-| Rifugio | Tipo | Telefono | Sito | P | P + Co | P + Co + Ce | Note |
-|----------|------|----------|------|:------:|:-------:|:-----------:|------|
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
+| Rifugio | Tipo | Telefono | Sito | P | P + Co | P + Co + Ce | Ci | Note |
+|----------|------|----------|------|:------:|:-------:|:-----------:| :---: |------|
+| | | | | | | | | |
+| | | | | | | | | |
+| | | | | | | | | |
 
 ---
 
 ### 19 agosto 2026
 
-| Rifugio | Tipo | Telefono | Sito | P | P + Co | P + Co + Ce | Note |
-|----------|------|----------|------|:------:|:-------:|:-----------:|------|
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
+| Rifugio | Tipo | Telefono | Sito | P | P + Co | P + Co + Ce | Ci | Note |
+|----------|------|----------|------|:------:|:-------:|:-----------:| :---: |------|
+| | | | | | | | | |
+| | | | | | | | | |
+| | | | | | | | | |
 
 ---
 
 ### 20 agosto 2026
 
-| Rifugio | Tipo | Telefono | Sito | P | P + Co | P + Co + Ce | Note |
-|----------|------|----------|------|:------:|:-------:|:-----------:|------|
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
+| Rifugio | Tipo | Telefono | Sito | P | P + Co | P + Co + Ce | Ci | Note |
+|----------|------|----------|------|:------:|:-------:|:-----------:| :---: |------|
+| | | | | | | | | |
+| | | | | | | | | |
+| | | | | | | | | |
 
 ---
 
 ### 21 agosto 2026
 
-| Rifugio | Tipo | Telefono | Sito | P | P + Co | P + Co + Ce | Note |
-|----------|------|----------|------|:------:|:-------:|:-----------:|------|
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
+| Rifugio | Tipo | Telefono | Sito | P | P + Co | P + Co + Ce | Ci | Note |
+|----------|------|----------|------|:------:|:-------:|:-----------:| :---: |------|
+| | | | | | | | | |
+| | | | | | | | | |
+| | | | | | | | | |
