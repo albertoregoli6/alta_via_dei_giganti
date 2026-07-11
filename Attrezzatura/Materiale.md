@@ -1,4 +1,4 @@
-## 🎒 Materiale ed Equipaggiamento
+# 🎒 Materiale ed Equipaggiamento
 - [ ] Zaino 50 L
 - [ ] Borraccia 1 L
 - [ ] Beauty case
@@ -11,17 +11,15 @@
 - [ ] Sacchetto per rifiuti
 
 ---
-
-## 🧴 Igiene e Cura Personale
+# 🧴 Igiene e Cura Personale
 - [ ] Sapone di Aleppo
 - [ ] Crema solare
 - [ ] Fazzoletti
 - [ ] Talco
 
 ---
-
-## 👥 Materiale condiviso (1 per 3 persone)
-> Da dividere tra i partecipanti
+# 👥 Materiale condiviso (1 per 3 persone)
+Da dividere tra i partecipanti
 
 - [ ] Tenda
 - [ ] Cibo
@@ -32,9 +30,8 @@
 - [ ] Mappa / carta dei sentieri
 
 ---
-
-## ⚠️ Opzionali / Non indispensabili
-> Utili ma non essenziali
+# ⚠️ Opzionali / Non indispensabili
+Utili ma non essenziali
 
 - [ ] Bussola
 - [ ] Altimetro
