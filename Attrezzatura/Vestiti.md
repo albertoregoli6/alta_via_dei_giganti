@@ -1,0 +1,11 @@
+## 👕 Vestiti
+- [ ] Piumino
+- [ ] K-Way
+- [ ] Pigiama lungo
+- [ ] Maglia a manica lunga
+- [ ] Guanti
+- [ ] Cappello
+- [ ] Scarpe da trekking
+- [ ] Calze da trekking
+- [ ] Vestiti
+- [ ] Biancheria
