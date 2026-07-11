@@ -84,7 +84,7 @@ Scelta migliore: Dortoir (Oyace)
 | Rifugio | Tipo | Telefono | Sito/Email | P | P + Co | P + Co + Ce | Ci | Note |
 |----------|------|----------|------|:------:|:-------:|:-----------:| :---: |------|
 | Rosaire Clermont | Bivacco | | | | | | | sempre aperto - 12 posti letto |
-| Dortoir (Oyace) | ??? | +39 0165 730905 / +39 3925857337 | latouroyace2025@gmail.com | | | | | |
+| Dortoir (Oyace) | ??? | +39 0165 730905 / +39 3925857337 | latouroyace2025@gmail.com | | | | | https://www.latouroyace.it/it/pagina/servizi?start_date=2026-08-14&end_date=2026-08-15&adults=3&children=0# |
 
 5) 14/08 Dotoir Oyace: il n. di telefono risulta irraggiungibile -
 bivacco Rosaire Clermont il n. di telefono è quello del comune di Quart
