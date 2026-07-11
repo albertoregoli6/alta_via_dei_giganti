@@ -1,7 +1,7 @@
 # ⛺ Informazioni Rifugio Frassati
 
 | Campo | Dettaglio |
-|---------|---------|
+|:---------:|:---------:|
 | Nome rifugio | Frassati |
 | Telefono | +39 331 9438054 |
 | Sito web | https://www.rifugiofrassati.it/it/ |

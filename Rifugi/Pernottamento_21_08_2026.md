@@ -1,7 +1,7 @@
 # ⛺ Informazioni Rifugio
 
 | Campo | Dettaglio |
-|---------|---------|
+|:---------:|:---------:|
 | Nome rifugio | |
 | Telefono | |
 | Sito web | |
