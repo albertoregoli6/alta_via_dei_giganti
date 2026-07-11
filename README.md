@@ -4,10 +4,34 @@ Guida per l'Alta via dei Giganti
 
 Guardare [Divisione_Tappe](/Divisione_Tappe.md) per la suddivisione delle tappe al giorno.
 
+# LISTA PRENOTAZIONI
+### Alta Via n°1
+
+| Data | Luogo | Prenotazione |
+|:------:|:--------:|:--------------:|
+| 10/08 | Tenda | |
+| 11/08 | Tenda | |
+| 12/08 | Rifugio | SI |
+| 13/08 | Rifugio | SI |
+| 14/08 | Rifugio | SI |
+| 15/08 | Tenda | |
+| 16/08 | Rifugio | SI |
+| 17/08 | Rifugio | |
+
+### Alta Via n°2
+
+| Data | Luogo | Prenotazione |
+|:------:|:--------:|:--------------:|
+| 17/08 | Rifugio | |
+| 18/08 | Rifugio | |
+| 19/08 | Rifugio | |
+| 20/08 | Rifugio | |
+| 21/08 | Rifugio | |
+
 # LISTA TAPPE
 
 | Tappa                        | Partenza                  | Arrivo                    | Lunghezza(km) | Dislivello(m) | Traccia                                                                                             |
-| ---------------------------- | ------------------------- | ------------------------- | ------------- | ------------- | --------------------------------------------------------------------------------------------------- |
+| :----------------------------: | :-------------------------: | :-------------------------: | :-------------: | :-------------: | :---------------------------------------------------------------------------------------------------: |
 | [Tappa01](/Tappe/Tappa01.md) | Donnas                    | Sassa                     | 12.3          | 1060          | [Traccia](GPX/N1/Tappa%201_%20Da%20Donnas%20a%20Sassa.gpx)                                          |
 | [Tappa02](/Tappe/Tappa02.md) | Sassa                     | Rifugio Coda              | 8.23          | 860           | [Traccia](GPX/N1/Tappa%202_%20Da%20Sassa%20al%20Rifugio%20Coda.gpx)                                 |
 | [Tappa03](/Tappe/Tappa03.md) | Rifugio Coda              | Rifugio Barma             | 9.1           | -180          | [Traccia](GPX/N1/Tappa%203_%20Dal%20Rifugio%20Coda%20al%20Rifugio%20della%20Barma.gpx)              |
