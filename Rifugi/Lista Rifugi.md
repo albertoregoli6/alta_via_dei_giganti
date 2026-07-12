@@ -127,7 +127,7 @@ Scelta migliore: Pier Giorgio Frassati
 
 ### 17 agosto 2026
 Tappa: 16-17
-Scelta migliore: B&B Courmayeur
+Scelta migliore: Albergo Galizia
 
 | Rifugio | Tipo | Telefono | Sito/Email | P | P + Co | P + Co + Ce | Ci | Note |
 |----------|------|----------|------|:------:|:-------:|:-----------:| :---: |------|
@@ -145,6 +145,17 @@ Scelta migliore: B&B Courmayeur
 
 8) 17/08 Rifugio Bonatti: occupato fino al 20/09 
          Rifugio Bertone: guardare la disponibilità sul Sito/Email (ho controllato non c'è posto per il 17 c'è per il 18)
+
+| Rifugio | Tipo | Telefono | Sito/Email | P | P + Co | P + Co + Ce | Ci | Note |
+|----------|------|----------|------|:------:|:-------:|:-----------:| :---: |------|
+| Albergo Galisia | Albergo | 0165.936100 | albergogalisia@gmail.com / https://gestwww.lovevda.it/it/banca-dati/22/stelle/rhemes-notre-dame/albergo-ristorante-galisia/145 | | | | | |
+| Chez Lidia | Albergo | 0165.936103 / +39 340.2583428 | info@hotelchezlidia.it / https://gestwww.lovevda.it/it/banca-dati/22/stelle/rhemes-notre-dame/chez-lidia/460 | | | | | |
+
+**Altri posti**
+https://gestwww.lovevda.it/it/banca-dati/22/stelle/rhemes-notre-dame/rhemes-residence/9001241
+https://gestwww.lovevda.it/it/banca-dati/22/affittacamere/rhemes-notre-dame/affittacamere-tanini-cristina/3526
+https://gestwww.lovevda.it/it/banca-dati/22/case-e-appartamenti-per-vacanze/rhemes-notre-dame/case-gran-paradiso/8000488
+https://gestwww.lovevda.it/it/banca-dati/22/stelle/rhemes-notre-dame/lo-sabot/9000698
 
 ---
 
