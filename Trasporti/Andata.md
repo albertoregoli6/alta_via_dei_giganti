@@ -17,10 +17,10 @@
 ## PONT-SAINT-MARTIN - GRESSONEY
 | Data Partenza | Ora Partenza | Ora Arrivo | Luogo Partenza | Luogo Arrivo | Fermate/Tappe | Durata | Compagnia | Linea/Corsa | Costo Biglietto (€) | Note |
 | ------------- | ------------ | ---------- | -------------- | ------------ | ------------- | ------ | --------- | ----------- | ------------------- | ---- | 
-| 10/08/2026    |       09.20  |    10.15   | PONT-ST-MARTIN - FF.SS| GRESSONEY-ST-JEAN |    11      |  V.I.T.A  | PONT-ST-MARTIN  -  STAFFAL|              | 
-3,30 €  | https://maps.app.goo.gl/esJZnHqP5xCVH9yw5  |
+| 10/08/2026    | 09.20 | 10.15 | PONT-ST-MARTIN - FF.SS | GRESSONEY-ST-JEAN | 11 |  55min | V.I.T.A | PONT-ST-MARTIN  -  STAFFAL | 3,30 € | https://maps.app.goo.gl/esJZnHqP5xCVH9yw5  |
 
 ## ALTERNTIVA PONT-SAINT-MARTIN - GRESSONEY
 | Data Partenza | Ora Partenza | Ora Arrivo | Luogo Partenza | Luogo Arrivo | Fermate/Tappe | Durata | Compagnia | Linea/Corsa | Costo Biglietto (€) | Note |
 | ------------- | ------------ | ---------- | -------------- | ------------ | ------------- | ------ | --------- | ----------- | ------------------- | ---- | 
-| 10/08/2026 |       09.25     |    10.15   | P.S.MARTIN - P.za IV Nov| GRESSONEY-ST-JEAN |               |         |            |              |                   
+| 10/08/2026 | 09.25 | 10.15 | P.S.MARTIN - P.za IV Nov | GRESSONEY-ST-JEAN | 10 | 50min | V.I.T.A | PONT-ST-MARTIN  -  STAFFAL | 3,30 € |
+https://maps.app.goo.gl/gZcKfWiYkRYXnQmW9 |
