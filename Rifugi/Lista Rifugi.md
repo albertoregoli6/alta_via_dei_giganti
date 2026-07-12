@@ -168,7 +168,7 @@ Scelta migliore: Camping Grivola
 
 | Rifugio | Tipo | Telefono | Sito/Email | P | PCo | PCC | Ci | Note |
 |:----------:|:------:|:----------:|:------:|:------:|:-------:|:-----------:|:---:|:------:|
-| Camping Grivola | Tenda | +39 0165 905743 | [Sito](https://www.campinghotelgrivola.com/08/ita/index.php?page=home) | | | | | | Mandato Form|
+| Camping Grivola | Tenda | +39 0165 905743 | [Sito](https://www.campinghotelgrivola.com/08/ita/index.php?page=home) | | | | | | Mandato Form |
 | Le Mélèze Gîte d'étape | Albergo | +33 647783293 | elisafrassetto@yahoo.it / [Sito](https://gitelemeleze.com/) | | | | | Mandata mail |
 
 ---
