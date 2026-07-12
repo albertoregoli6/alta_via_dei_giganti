@@ -127,7 +127,7 @@ Scelta migliore: Pier Giorgio Frassati
 
 ### 17 agosto 2026
 Tappa: 16-17
-Scelta migliore: Albergo Galizia
+Scelta migliore: Albergo Galisia
 
 | Rifugio | Tipo | Telefono | Sito/Email | P | P + Co | P + Co + Ce | Ci | Note |
 |----------|------|----------|------|:------:|:-------:|:-----------:| :---: |------|
@@ -148,8 +148,8 @@ Scelta migliore: Albergo Galizia
 
 | Rifugio | Tipo | Telefono | Sito/Email | P | P + Co | P + Co + Ce | Ci | Note |
 |----------|------|----------|------|:------:|:-------:|:-----------:| :---: |------|
-| Albergo Galisia | Albergo | 0165.936100 | albergogalisia@gmail.com / https://gestwww.lovevda.it/it/banca-dati/22/stelle/rhemes-notre-dame/albergo-ristorante-galisia/145 | | | | | |
-| Chez Lidia | Albergo | 0165.936103 / +39 340.2583428 | info@hotelchezlidia.it / https://gestwww.lovevda.it/it/banca-dati/22/stelle/rhemes-notre-dame/chez-lidia/460 | | | | | |
+| Albergo Galisia | Albergo | 0165.936100 | albergogalisia@gmail.com / https://gestwww.lovevda.it/it/banca-dati/22/stelle/rhemes-notre-dame/albergo-ristorante-galisia/145 | | | | | Mandata mail |
+| Chez Lidia | Albergo | 0165.936103 / +39 340.2583428 | info@hotelchezlidia.it / https://gestwww.lovevda.it/it/banca-dati/22/stelle/rhemes-notre-dame/chez-lidia/460 | | | | | Mandata mail |
 
 **Altri posti**
 https://gestwww.lovevda.it/it/banca-dati/22/stelle/rhemes-notre-dame/rhemes-residence/9001241
@@ -159,43 +159,33 @@ https://gestwww.lovevda.it/it/banca-dati/22/stelle/rhemes-notre-dame/lo-sabot/90
 
 ---
 
----
-# DA DECIDERE
-
 ### 18 agosto 2026
+Tappa: 7
+Scelta migliore: Camping Grivola
 
 | Rifugio | Tipo | Telefono | Sito/Email | P | P + Co | P + Co + Ce | Ci | Note |
 |----------|------|----------|------|:------:|:-------:|:-----------:| :---: |------|
-| | | | | | | | | |
-| | | | | | | | | |
-| | | | | | | | | |
+| Camping Grivola | Tenda | +39 0165 905743 | https://www.campinghotelgrivola.com/08/ita/index.php?page=home | | | | | | Mandato Form|
+| Le Mélèze Gîte d'étape | Albergo | +33 647783293 | elisafrassetto@yahoo.it / https://gitelemeleze.com/ | | | | | Mandata mail |
 
 ---
 
 ### 19 agosto 2026
+Tappa: 8
+Scelta migliore: Rifugio Vittorio Sella
 
 | Rifugio | Tipo | Telefono | Sito/Email | P | P + Co | P + Co + Ce | Ci | Note |
 |----------|------|----------|------|:------:|:-------:|:-----------:| :---: |------|
-| | | | | | | | | |
-| | | | | | | | | |
-| | | | | | | | | |
+| Vittorio Sella | Rifugio | +39 3513296258 | https://www.rifugiosella.com/index.asp / info@rifugiosella.com | | | | | Mandato form |
 
 ---
 
 ### 20 agosto 2026
+Tappa: 9-10
+Scelta migliore: Sogno di Berdzè 
 
 | Rifugio | Tipo | Telefono | Sito/Email | P | P + Co | P + Co + Ce | Ci | Note |
 |----------|------|----------|------|:------:|:-------:|:-----------:| :---: |------|
-| | | | | | | | | |
-| | | | | | | | | |
-| | | | | | | | | |
+| Sogno di Berdzè | Rifugio | +39 350 111 5992 | sognodiberdze@gmail.com / https://www.rifugiosognodiberze.com/ | | | | | Mandata mail - mandare whatsapp se non risponde |
 
 ---
-
-### 21 agosto 2026
-
-| Rifugio | Tipo | Telefono | Sito/Email | P | P + Co | P + Co + Ce | Ci | Note |
-|----------|------|----------|------|:------:|:-------:|:-----------:| :---: |------|
-| | | | | | | | | |
-| | | | | | | | | |
-| | | | | | | | | |
