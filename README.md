@@ -16,17 +16,15 @@ Guardare [Divisione_Tappe](/Divisione_Tappe.md) per la suddivisione delle tappe 
 | 14/08 | Rifugio | SI |
 | 15/08 | Tenda | |
 | 16/08 | Rifugio | SI |
-| 17/08 | Rifugio | |
+| 17/08 | Rifugio | MANDATA MAIL |
 
 ### Alta Via n°2
 
 | Data | Luogo | Prenotazione |
 |:------:|:--------:|:--------------:|
-| 17/08 | Rifugio | |
-| 18/08 | Rifugio | |
-| 19/08 | Rifugio | |
-| 20/08 | Rifugio | |
-| 21/08 | Rifugio | |
+| 18/08 | Rifugio | MANDATA MAIL |
+| 19/08 | Rifugio | MANDATA FORM |
+| 20/08 | Rifugio | MANDATA MAIL |
 
 # LISTA TAPPE
 
