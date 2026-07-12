@@ -9,3 +9,5 @@ https://www.komoot.com/it-it/collection/1650569/a-spasso-tra-i-giganti-alta-via-
 
 ### KOMOOT - ALTA VIA 2
 https://www.komoot.com/it-it/collection/1805679/tra-alte-cime-e-valloni-di-autentica-bellezza-alta-via-2-della-valle-daosta
+
+### PALLE
