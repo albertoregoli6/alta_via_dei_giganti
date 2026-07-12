@@ -22,7 +22,7 @@ Guardare [Divisione_Tappe](/Divisione_Tappe.md) per la suddivisione delle tappe 
 
 | Data | Luogo | Prenotazione |
 |:------:|:--------:|:--------------:|
-| 18/08 | Rifugio | MANDATA MAIL |
+| 18/08 | Rifugio | MANDATA MAIL E FORM |
 | 19/08 | Rifugio | MANDATA FORM |
 | 20/08 | Rifugio | MANDATA MAIL |
 
