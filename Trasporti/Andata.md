@@ -17,4 +17,4 @@
 ## PONT-SAINT-MARTIN - GRESSONEY
 | Data Partenza | Ora Partenza | Ora Arrivo | Luogo Partenza | Luogo Arrivo | Fermate/Tappe | Durata | Compagnia | Linea/Corsa | Costo Biglietto (€) | Note |
 | ------------- | ------------ | ---------- | -------------- | ------------ | ------------- | ------ | --------- | ----------- | ------------------- | ---- | 
-| 10/08/2026 |              |             | Pont-Saint-Martin | Gressoney |               |         |            |              |                   | INDICARE POSIZIONE MAPS DI PARTENZA E ARRIVO |
+| 10/08/2026 |       09.20     |    10.15   | PONT-ST-MARTIN - FF.SS| GRESSONEY-ST-JEAN |               |         |            |              |                   | INDICARE POSIZIONE MAPS DI PARTENZA E ARRIVO |
