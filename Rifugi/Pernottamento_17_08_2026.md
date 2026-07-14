@@ -10,3 +10,5 @@
 | Cosa ci danno | |
 | Costo | |
 | Pagamento anticipato | |
+| Prenotato | |
+| Note | |

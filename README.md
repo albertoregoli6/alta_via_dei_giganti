@@ -4,6 +4,15 @@ Guida per l'Alta via dei Giganti
 
 Guardare [Divisione_Tappe](/Divisione_Tappe.md) per la suddivisione delle tappe al giorno.
 
+# TODO - ALBERTO
+- [] trovare il rifugio per il 17/08
+- [] aggiornare le schede dei rifugi
+- [] pagare il sogno di Berzè
+- [] fare le tappe
+- [] guardare dove lasciare auto
+- [] guardare cibo durante il viaggio
+- [] aggiornare costi viaggi + bus
+
 # LISTA PRENOTAZIONI
 ### Alta Via n°1
 
@@ -13,7 +22,7 @@ Guardare [Divisione_Tappe](/Divisione_Tappe.md) per la suddivisione delle tappe 
 | 11/08 | Tenda | |
 | 12/08 | Rifugio | SI |
 | 13/08 | Rifugio | SI |
-| 14/08 | Rifugio | SI |
+| 14/08 | Rifugio | SI - AGGIORNARE CON CAMPEGGIO CAI |
 | 15/08 | Tenda | |
 | 16/08 | Rifugio | SI |
 | 17/08 | Rifugio | MANDATA MAIL |
@@ -22,9 +31,9 @@ Guardare [Divisione_Tappe](/Divisione_Tappe.md) per la suddivisione delle tappe 
 
 | Data | Luogo | Prenotazione |
 |:------:|:--------:|:--------------:|
-| 18/08 | Rifugio | MANDATA MAIL E FORM |
-| 19/08 | Rifugio | MANDATA FORM |
-| 20/08 | Rifugio | MANDATA MAIL |
+| 18/08 | Rifugio | SI - AGGIORNARE CAMPING GRIVOLA - CHIAMARE |
+| 19/08 | Rifugio | SI - AGGIORNARE RIFUGIO SELLA |
+| 20/08 | Rifugio | SI - AGGIORNARE RIFUGIO SOGNO DI BERZÈ |
 
 # LISTA TAPPE
 
