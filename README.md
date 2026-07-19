@@ -64,5 +64,5 @@ Questa raccolta custodisce le cronache del loro viaggio divise in:
 ---
 
 # TODO - ALBERTO
-- [] fare le tappe
+- [] fare le tappe (mettere posti dove mangiare + grafici del percorso)
 - [] guardare cibo durante il viaggio
