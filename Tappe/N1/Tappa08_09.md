@@ -68,7 +68,7 @@
 
 ---
 ## ⛺ Punti di sosta e pernottamento
-[Pernottamento](../../Rifugi/N1/Pernottamento_10_08_2026.md)
+[Pernottamento](../../Rifugi/N1/Pernottamento_12_08_2026.md)
 
 ---
 ## 🍺 Punti recupero cibo 
