@@ -1,4 +1,17 @@
-Guida per l'Alta via dei Giganti.
+**ALTA VIA N°1 e N°2**
+
+Nell'estremo nord delle Terre Alte, tre giovani viandanti si mettonoo in cammino tra vette di pietra, laghi d'altura e antichi colli dimenticati. Seguendo i sentieri dell'Alta Via n°1 e n°2 della Valle d'Aosta, affrontano passi ventosi, rifugi solitari e montagne avvolte nelle nubi. 
+Questa raccolta custodisce le cronache del loro viaggio divise in:
+- Attrezzatura
+- Dati Extra
+- Mappe e tracce GPX 
+- Link utili
+- Pdf
+- Rifugi
+- Tappe
+- Trasporti
+- E memorie di un'avventura tra le creste del regno alpino
+
 
 ---
 
