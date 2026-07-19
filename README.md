@@ -1,20 +1,36 @@
-# READ ME
+Guida per l'Alta via dei Giganti.
 
-Guida per l'Alta via dei Giganti
+---
 
-Guardare [Divisione_Tappe](/Divisione_Tappe.md) per la suddivisione delle tappe al giorno.
+# SUDDIVISIONE TAPPE 
+### ALTA VIA N°1
+| Giorno | Data  | Tappe | Partenza                  | Arrivo                    | Lunghezza(km) | Dislivello(m) | Durata 1 | Durata 2 | Durata totale | File                                  | Traccia 1                                                                                           | Traccia 2                                                                                |
+| ------ | ----- | ----- | ------------------------- | ------------------------- | ------------- | ------------- | -------- | -------- | ------------- | ------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| 1      | 10/08 | 6     | Gressoney-Saint-Jean      | Jean al Crest             | 12.8          | 530           | 6:30     |          | 6:30          | [Tappa06](/Tappe/N1/Tappa06.md)       | [Traccia](GPX/N1/Tappa%206_%20Da%20Gressoney-Saint-Jean%20a%20Crest.gpx)                            |                                                                                          |
+| 2      | 11/08 | 7     | Jean al Crest             | Rifugio Grand Tournalin   | 11.1          | 610           | 4:50     |          | 4:50          | [Tappa07](/Tappe/N1/Tappa07.md)       | [Traccia](GPX/N1/Tappa%207_%20Da%20Crest%20al%20Rifugio%20Grand%20Tournalin.gpx)                    |                                                                                          |
+| 3      | 12/08 | 8-9   | Rifugio Grand Tournalin   | Rifugio Barmasse          | 13.75         | -370          | 3:25     | 2:10     | 5:35          | [Tappa08_09](/Tappe/N1/Tappa08_09.md) | [Traccia](GPX/N1/Tappa%208_%20Dal%20Rifugio%20Grand%20Tournalin%20a%20Valtournenche.gpx)            | [Traccia](GPX/N1/Tappa%209_%20Da%20Valtournenche%20al%20Rifugio%20Barmasse.gpx)          |
+| 4      | 13/08 | 10    | Rifugio Barmasse          | Rifugio Oratorio di Cuney | 16.3          | 470           | 6:15     |          | 6:15          | [Tappa10](/Tappe/N1/Tappa10.md)       | [Traccia](GPX/N1/Tappa%2010_%20Dal%20Rifugio%20Barmasse%20al%20Rifugio%20Oratorio%20di%20CunВy.gpx) |                                                                                          |
+| 5      | 14/08 | 11-12 | Rifugio Oratorio di Cuney | Ollomont                  | 28            | -1300         | 5:15     | 5:45     | 11:00         | [Tappa11_12](/Tappe/N1/Tappa11_12.md) | [Traccia](GPX/N1/Tappa%2011_%20Dal%20Rifugio%20Oratorio%20di%20CunВy%20a%20Oyace.gpx)               | [Traccia](GPX/N1/Tappa%2012_%20Da%20Oyace%20a%20Ollomont.gpx)                            |
+| 6      | 15/08 | 13    | Ollomont                  | Rifugio Champillon        | 5.01          | 1030          | 3:05     |          | 3:05          | [Tappa13](/Tappe/N1/Tappa13.md)       | [Traccia](GPX/N1/Tappa%2013_%20Da%20Ollomont%20al%20Rifugio%20LВtey%20Champillon.gpx)               |                                                                                          |
+| 7      | 16/08 | 14-15 | Rifugio Champillon        | Rifugio Frassati          | 25.2          | 90            | 5:05     | 3:10     | 8:15          | [Tappa14_15](/Tappe/N1/Tappa14_15.md) | [Traccia](GPX/N1/Tappa%2014_%20Dal%20Rifugio%20LВtey%20Champillon%20a%20Saint-RhВmy.gpx)            | [Traccia](GPX/N1/Tappa%2015_%20Da%20Saint-RhВmy-en-Bosses%20al%20Rifugio%20Frassati.gpx) |
+| 8      | 17/08 | 16-17 | Rifugio Frassati          | Courmayeur                | 19.75         | -1330         | 3:05     | 3:50     | 6:55          | [Tappa16_17](/Tappe/N1/Tappa16_17.md) | [Traccia](GPX/N1/Tappa%2016_%20Dal%20Rifugio%20Frassati%20al%20Rifugio%20Bonatti.gpx)               | [Traccia](GPX/N1/Tappa%2017_%20Dal%20Rifugio%20Bonatti%20a%20Courmayeur.gpx)             |
 
-# TODO - ALBERTO
-- [] trovare il rifugio per il 17/08
-- [] aggiornare le schede dei rifugi
-- [] pagare il sogno di Berzè
-- [] fare le tappe
-- [] guardare dove lasciare auto
-- [] guardare cibo durante il viaggio
-- [] aggiornare costi viaggi + bus
+**TOTALE**: 131.91 km / -270 m
 
-# LISTA PRENOTAZIONI
-### Alta Via n°1
+### ALTA VIA N°2
+| Giorno | Data | Tappe | Partenza | Arrivo | Lunghezza(km) | Dislivello(m) | Durata 1 | Durata 2 | Durata totale | File | Traccia 1 | Traccia 2 | 
+| :----: | :--: | :---: | :------: | :----: | :-----------: | :-----------: | :------: | :------: | :-----------: | :--: | :-------: | :-------: |
+| 9      | 18/08 | 7 | Rhemes-Notre-Dame | Eaux-Rousses | 15.8 | -60 | 6:40 | | 6:40 | [Tappa07](/Tappe/N2/Tappa07.md) | [Traccia](GPX/N2/7.rhИmes-notre-dame%20-%20eaux-rousses.gpx) | | 
+| 10     | 19/08 | 8 | Eaux-Rousses | Rifugio Vittorio Sella | 17.2 | 920 | 6:50 | | 6:50 | [Tappa07](/Tappe/N2/Tappa08.md) | [Traccia](GPX/N2/8.eaux-rousses%20-%20rifugio%20vittorio%20sella.gpx) | | 
+| 11     | 20/08 | 9-10 | Rifugio Vittorio Sella | Rifugio Sogno di Berzè | 22.5 | -80 | 2:25 | 4:55 | 7:20 | [Tappa07](/Tappe/N2/Tappa09_10.md) | [Traccia](GPX/N2/9.rifugio%20vittorio%20sella%20-%20cogne.gpx) | [Traccia](GPX/N2/10.cogne%20-%20rifugio%20sogno%20di%20berdzВ.gpx) | 
+| 12     | 21/08 | 11 | Rifugio Sogno di Berzè | Champorcher | 14.8 | -1130 | 2:30 | 2:00 | 4:30 | [Tappa07](/Tappe/N2/Tappa11.md) | [Traccia](GPX/N2/11.rifugio%20sogno%20di%20berdzВ%20-%20rifugio%20dondena.gpx) | [Traccia](GPX/N2/12.rifugio%20dondena%20-%20champorcher.gpx) | 
+
+**TOTALE**: 70.3 km / -350 m
+
+---
+
+# PERNOTTAMENTO
+### ALTA VIA N°1
 
 | Data | Luogo | Prenotazione |
 |:------:|:--------:|:--------------:|
@@ -27,7 +43,7 @@ Guardare [Divisione_Tappe](/Divisione_Tappe.md) per la suddivisione delle tappe 
 | 16/08 | Rifugio | SI |
 | 17/08 | Rifugio | MANDATA MAIL |
 
-### Alta Via n°2
+### ALTA VIA N°2
 
 | Data | Luogo | Prenotazione |
 |:------:|:--------:|:--------------:|
@@ -35,25 +51,9 @@ Guardare [Divisione_Tappe](/Divisione_Tappe.md) per la suddivisione delle tappe 
 | 19/08 | Rifugio | SI - AGGIORNARE RIFUGIO SELLA |
 | 20/08 | Rifugio | SI - AGGIORNARE RIFUGIO SOGNO DI BERZÈ |
 
-# LISTA TAPPE
+  
 
-| Tappa                        | Partenza                  | Arrivo                    | Lunghezza(km) | Dislivello(m) | Traccia                                                                                             |
-| :----------------------------: | :-------------------------: | :-------------------------: | :-------------: | :-------------: | :---------------------------------------------------------------------------------------------------: |
-| [Tappa01](/Tappe/Tappa01.md) | Donnas                    | Sassa                     | 12.3          | 1060          | [Traccia](GPX/N1/Tappa%201_%20Da%20Donnas%20a%20Sassa.gpx)                                          |
-| [Tappa02](/Tappe/Tappa02.md) | Sassa                     | Rifugio Coda              | 8.23          | 860           | [Traccia](GPX/N1/Tappa%202_%20Da%20Sassa%20al%20Rifugio%20Coda.gpx)                                 |
-| [Tappa03](/Tappe/Tappa03.md) | Rifugio Coda              | Rifugio Barma             | 9.1           | -180          | [Traccia](GPX/N1/Tappa%203_%20Dal%20Rifugio%20Coda%20al%20Rifugio%20della%20Barma.gpx)              |
-| [Tappa04](/Tappe/Tappa04.md) | Rifugio Barma             | Niel                      | 14.4          | -490          | [Traccia](GPX/N1/Tappa%204_%20Dal%20Rifugio%20della%20Barma%20a%20Gruba.gpx)                        |
-| [Tappa05](/Tappe/Tappa05.md) | Niel                      | Gressoney-Saint-Jean      | 18.2          | -170          | [Traccia](GPX/N1/Tappa%205_%20Da%20Gruba%20a%20Gressoney%20Saint%20Jean.gpx)                        |
-| [Tappa06](/Tappe/Tappa06.md) | Gressoney-Saint-Jean      | Jean al Crest             | 12.8          | 530           | [Traccia](GPX/N1/Tappa%206_%20Da%20Gressoney-Saint-Jean%20a%20Crest.gpx)                            |
-| [Tappa07](/Tappe/Tappa07.md) | Jean al Crest             | Rifugio Grand Tournalin   | 11.1          | 610           | [Traccia](GPX/N1/Tappa%207_%20Da%20Crest%20al%20Rifugio%20Grand%20Tournalin.gpx)                    |
-| [Tappa08](/Tappe/Tappa08.md) | Rifugio Grand Tournalin   | Valtournenche             | 8.87          | -1010         | [Traccia](GPX/N1/Tappa%208_%20Dal%20Rifugio%20Grand%20Tournalin%20a%20Valtournenche.gpx)            |
-| [Tappa09](/Tappe/Tappa09.md) | Valtournenche             | Rifugio Barmasse          | 4.88          | 640           | [Traccia](GPX/N1/Tappa%209_%20Da%20Valtournenche%20al%20Rifugio%20Barmasse.gpx)                     |
-| [Tappa10](/Tappe/Tappa10.md) | Rifugio Barmasse          | Rifugio Oratorio di Cuney | 16.3          | 470           | [Traccia](GPX/N1/Tappa%2010_%20Dal%20Rifugio%20Barmasse%20al%20Rifugio%20Oratorio%20di%20CunВy.gpx) |
-| [Tappa11](/Tappe/Tappa11.md) | Rifugio Oratorio di Cuney | Oyace                     | 16            | -1280         | [Traccia](GPX/N1/Tappa%2011_%20Dal%20Rifugio%20Oratorio%20di%20CunВy%20a%20Oyace.gpx)               |
-| [Tappa12](/Tappe/Tappa12.md) | Oyace                     | Ollomont                  | 12            | -20           | [Traccia](GPX/N1/Tappa%2012_%20Da%20Oyace%20a%20Ollomont.gpx)                                       |
-| [Tappa13](/Tappe/Tappa13.md) | Ollomont                  | Rifugio Champillon        | 5.01          | 1030          | [Traccia](GPX/N1/Tappa%2013_%20Da%20Ollomont%20al%20Rifugio%20LВtey%20Champillon.gpx)               |
-| [Tappa14](/Tappe/Tappa14.md) | Rifugio Champillon        | Saint-Rhemy-en-Bosses     | 14.4          | -820          | [Traccia](GPX/N1/Tappa%2014_%20Dal%20Rifugio%20LВtey%20Champillon%20a%20Saint-RhВmy.gpx)            |
-| [Tappa15](/Tappe/Tappa15.md) | Saint-Rhemy-en-Bosses     | Rifugio Frassati          | 10.8          | 910           | [Traccia](GPX/N1/Tappa%2015_%20Da%20Saint-RhВmy-en-Bosses%20al%20Rifugio%20Frassati.gpx)            |
-| [Tappa16](/Tappe/Tappa16.md) | Rifugio Frassati          | Rifugio Bonatti           | 7.85          | -510          | [Traccia](GPX/N1/Tappa%2016_%20Dal%20Rifugio%20Frassati%20al%20Rifugio%20Bonatti.gpx)               |
-| [Tappa17](/Tappe/Tappa17.md) | Rifugio Bonatti           | Courmayeur                | 11.9          | -820          | [Traccia](GPX/N1/Tappa%2017_%20Dal%20Rifugio%20Bonatti%20a%20Courmayeur.gpx)                        |
-| TOTALE                       |                           |                           | 194.14        | 810           |                                                                                                     |
+
+# TODO - ALBERTO
+- [] fare le tappe
+- [] guardare cibo durante il viaggio
