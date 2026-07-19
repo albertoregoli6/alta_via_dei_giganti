@@ -70,20 +70,16 @@ Il sentiero attraversa un vallone detritico, un ripiano erboso e raggiunge la pi
 | Salita  | 22 % | 1.320 m | 6,01 km |
 | Discesa | 19 % | 855 m | 4,47 km |
 
+![Profilo altimetrico](../../Extra/img/profilo_altimetrico_tappa06.png)
+
 ---
 ## ⛺ Punti di sosta e pernottamento
-
-| Località | Tipo | Contatti / Note |
-|---|---|---|
-| Rifugio Vieux Crest | Rifugio (posto indicato nel PDF) | tel. +39 339 1296345 |
-| Alpenzu | Rifugio | — |
-| Crest | Rifugio | — |
-| Col Pinter | Tenda | — |
-| Tschemenoal | Località senza punti di sosta | — |
-| Cuneaz | Località senza punti di sosta | — |
-
-![Alloggio](../Extra/img/rifugi_tappa6.png)
+[Pernottamento](../../Rifugi/N1/Pernottamento_10_08_2026.md)
 
 ---
+## 🍺 Punti recupero cibo 
+
+---
+## Fonti
 **Fonte 1:** [KOMOOT](https://www.komoot.com/it-it/tour/832112199)
 **Fonte 2:** [ALTA-VIA_Pdf](../Pdf/ITA_FRA_Alte_Vie.pdf)
