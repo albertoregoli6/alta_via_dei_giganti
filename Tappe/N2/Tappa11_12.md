@@ -148,4 +148,4 @@ Si torna a casina !!!
 ---
 ## Fonti
 **Fonte 1:** [KOMOOT](https://www.komoot.com/it-it/tour/832112199)
-**Fonte 2:** [ALTA-VIA_Pdf](../Pdf/ITA_FRA_Alte_Vie.pdf)
+**Fonte 2:** [ALTA-VIA_Pdf](../../Pdf/ITA_FRA_Alte_Vie.pdf)
