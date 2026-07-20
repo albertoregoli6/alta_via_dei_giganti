@@ -24,6 +24,7 @@ Da dividere tra i partecipanti
 - [ ] Tenda
 - [ ] Cibo
 - [ ] Pentolame
+- [ ] Accendino
 - [ ] Acqua per cucinare
 - [ ] Pala per la cacca
 - [ ] Kit di primo soccorso
