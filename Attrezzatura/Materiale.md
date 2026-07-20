@@ -25,7 +25,6 @@ Da dividere tra i partecipanti
 - [ ] Cibo
 - [ ] Pentolame
 - [ ] Accendino
-- [ ] Coltello
 - [ ] Acqua per cucinare
 - [ ] Pala per la cacca
 - [ ] Kit di primo soccorso
