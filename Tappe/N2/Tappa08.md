@@ -1,4 +1,4 @@
-# Tappa : Da  a 
+# Tappa 08: Da Eaux-Rousses a Rifugio Vittorio Sella 
 
 ## 📊 Dati principali
 
@@ -13,9 +13,9 @@
 
 | Parametro ALTA_VIA_Pdf | Valore |
 |---|---|
-| Durata stimata |  h |
-| Dislivello positivo (salita) |  m |
-| Dislivello negativo (discesa) |  m |
+| Durata stimata | 6:50 h |
+| Dislivello positivo (salita) | 1644 m |
+| Dislivello negativo (discesa) | 739 m |
 
 ---
 ## 🌄 Panoramica

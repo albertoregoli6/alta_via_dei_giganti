@@ -1,4 +1,4 @@
-# Tappa : Da  a 
+# Tappa 10: Da Rifugio Barmasse a Rifugio Cuney 
 
 ## 📊 Dati principali
 
@@ -13,9 +13,9 @@
 
 | Parametro ALTA_VIA_Pdf | Valore |
 |---|---|
-| Durata stimata |  h |
-| Dislivello positivo (salita) |  m |
-| Dislivello negativo (discesa) |  m |
+| Durata stimata | 6:15 h |
+| Dislivello positivo (salita) | 1233 m |
+| Dislivello negativo (discesa) | 770 m |
 
 ---
 ## 🌄 Panoramica

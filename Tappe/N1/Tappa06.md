@@ -1,4 +1,4 @@
-# Tappa 6: Da Gressoney-Saint-Jean a Crest
+# Tappa 06: Da Gressoney-Saint-Jean a Crest
 
 ## 📊 Dati principali
 

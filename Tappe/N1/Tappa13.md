@@ -1,4 +1,4 @@
-# Tappa : Da  a 
+# Tappa 13: Da Rey a Rifugio Champillon
 
 ## 📊 Dati principali
 
@@ -13,9 +13,9 @@
 
 | Parametro ALTA_VIA_Pdf | Valore |
 |---|---|
-| Durata stimata |  h |
-| Dislivello positivo (salita) |  m |
-| Dislivello negativo (discesa) |  m |
+| Durata stimata | 3:05 h |
+| Dislivello positivo (salita) | 1038 m |
+| Dislivello negativo (discesa) | 0 m |
 
 ---
 ## 🌄 Panoramica

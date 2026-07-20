@@ -1,4 +1,4 @@
-# Tappa : Da  a 
+# Tappa 07: Da Rhèmes-Notre-Dame a Eaux-Rousses
 
 ## 📊 Dati principali
 
@@ -13,9 +13,9 @@
 
 | Parametro ALTA_VIA_Pdf | Valore |
 |---|---|
-| Durata stimata |  h |
-| Dislivello positivo (salita) |  m |
-| Dislivello negativo (discesa) |  m |
+| Durata stimata | 6:40 h |
+| Dislivello positivo (salita) | 1281 m |
+| Dislivello negativo (discesa) | -1325 m |
 
 ---
 ## 🌄 Panoramica

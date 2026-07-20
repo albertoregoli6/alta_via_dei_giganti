@@ -1,4 +1,4 @@
-# Tappa : Da  a 
+# Tappa 07: Da Crest a Rifugio Grand Tournalin 
 
 ## 📊 Dati principali
 
@@ -13,9 +13,9 @@
 
 | Parametro ALTA_VIA_Pdf | Valore |
 |---|---|
-| Durata stimata |  h |
-| Dislivello positivo (salita) |  m |
-| Dislivello negativo (discesa) |  m |
+| Durata stimata | 4:50 h |
+| Dislivello positivo (salita) | 1067 m |
+| Dislivello negativo (discesa) | 452 m |
 
 ---
 ## 🌄 Panoramica
