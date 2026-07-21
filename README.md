@@ -67,3 +67,5 @@ Questa raccolta custodisce le cronache del loro viaggio divise in:
 - [] fare le tappe (mettere posti dove mangiare + grafici del percorso)
 - [] guardare cibo durante il viaggio
 - [] aggiustare bus ritorno
+- [] aggiustare tappa 11-12 finale
+- formattare correttamente tutte le tabelle e ordine crescente dati 
