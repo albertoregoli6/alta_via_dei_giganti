@@ -33,12 +33,12 @@ Raggiungi il Col Terray e poi l’Oratorio di Cuney, un luogo affascinante e ric
 
 | Punto | Distanza dall'inizio | Descrizione |
 |---|---|---|
-| A | 0 km | Punto di partenza |
+| A | 0 km | **Punto di partenza** |
 | 1 | 4.17 km | **Colle Fenêtre d'Ersaz** – Passo Montano. La Fenêtre d’Ersaz si trova a 2.290 metri d'altitudine. Da qui si ha una vista impagabile sul Cervino e sulle cime della Valtournenche. I sentieri che portano qui sono tecnicamente facili e non troppo ripidi. |
 | 2 | 11.5 km | **Bivacco Luca Reboulaz** – Rifugio. Il bivacco è stato costruito nel 1993 ed è dedicato a Luca Reboulaz un amante della montagna che perse la vita sulla Becca del Luseney. È posto in un luogo davvero incantevole! |
 | 3 | 11.8 km | **Lago di Luseney** – Lago. Il lago di Luseney è un bellissimo bacino di origine glaciale. Si trova a poca distanza dal bivacco Luca Reboulaz. |
 | 4 | 16.3 km | **Rifugio e Oratorio di Cuney** – Rifugio. Rifugio Oratorio di Cuney è il rifugio più alto delle Alte Vie della Valle d’Aosta: si trova a 2.652 metri di altitudine. Da qui si possono ammirare il Monte Rosa, il Gran Paradiso e il Rutor. Vicino è posto il santuario della Madonna delle Nevi. |
-| B | 16.3 km | Punto di arrivo |
+| B | 16.3 km | **Punto di arrivo** |
 
 ---
 ## 🥾 Tipi di percorso

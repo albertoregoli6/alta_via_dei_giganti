@@ -4,12 +4,12 @@
 
 | Parametro KOMOOT | Valore |
 |---|---|
-| Difficoltà |  |
-| Distanza |  km |
-| Durata stimata |  h |
-| Velocità media |  km/h |
-| Dislivello positivo (salita) |  m |
-| Dislivello negativo (discesa) |  m |
+| Difficoltà | Difficile |
+| Distanza | 5.58 km |
+| Durata stimata | 3:14 h |
+| Velocità media | 1.7 km/h |
+| Dislivello positivo (salita) | 1040 m |
+| Dislivello negativo (discesa) | 0 m |
 
 | Parametro ALTA_VIA_Pdf | Valore |
 |---|---|
@@ -20,41 +20,44 @@
 ---
 ## 🌄 Panoramica
 
+La tredicesima tappa è corta, ma senz’altro impegnativa. Lasciati alle spalle Ollomont e dirigiti verso il bosco di conifere.
 
+Il tragitto di oggi è caratterizzato da una forte pendenza e dalla presenza di diversi alpeggi. Uscendo dal bosco puoi osservare in lontananza vette frastagliate, il bianco acceso dei ghiacciai e macchie verdi di vegetazione sui pendii delle montagne.
+
+Poco oltre la metà del percorso ti trovi davanti all’Alpe di Champillon, dove è presente anche una fontana. Qui puoi fare una piccola pausa per riposare le gambe in vista dell’ultimo tratto.
+
+Un ultimo sforzo ed eccoti al Rifugio Letey-Champillon, da cui puoi godere di un ottimo panorama sul vallone di Ollomont e sulla Bassa Valpelline.
 
 ---
 ## 🚩 Punti di passaggio (waypoints)
 
 | Punto | Distanza dall'inizio | Descrizione |
 |---|---|---|
-| A | 0 km | Punto di partenza |
-| 1 |  km | **Borgata Alpenzu Grande** – Insediamento. Bellissima borgata con ottimi panorami sui ghiacciai, le montagne circostanti e Gressoney |
-| 2 | km | **Incantevole ruscello** – Monumento naturale. L'acqua corre lungo le pendici rocciose creando una sinfonia con i rumori della natura |
-| 3 |  km | **Borgata alpina di Cunéaz** – Insediamento. Borgata estremamente affascinante, con aria di altri tempi e pace profonda |
-| B |  km | Punto di arrivo |
+| A | 0 km | **Punto di partenza** |
+| 1 | 3.24 km | **Verso Champillon** – Punto Panoramico. Il sentiero sale ripido fino a Champillon regalando bellissimi scorci sulle montagne circostanti. |
+| 2 | 5.58 km | **Rifugio Champillon** – Monumento naturale. Il Rifugio Letey-Champillon si trova in un punto molto panoramico sul vallone di Ollomont e sulla Bassa Valpelline. È dedicato a Adolphe Letey, sindaco di Doues, che credette molto nel turismo e nelle potenzialità di questo territorio. |
+| B | 5.58 km | **Punto di arrivo** |
 
 ---
 ## 🥾 Tipi di percorso
 
 | Tipo di percorso | Lunghezza |
 |---|---|
-| Sentiero escursionistico alpino |  km |
-| Sentiero |  km |
-| Strada | m |
-| Strada secondaria |  m |
-| Marciapiede |   m |
+| Sentiero escursionistico alpino | 3.30 km |
+| Sentiero | 1.17 km |
+| Strada | 689 m |
+| Sentiero escurionistico | 397 m |
 
 ---
 ## 🏔️ Superfici
 
 | Superficie | Lunghezza |
 |---|---|
-| Naturale |  km |
-| Alpino |  km |
-| Asfalto |  m |
-| Non asfaltata |  m |
-| Sterrato |  m |
-| Lastricato |  m |
+| Naturale | 3.27 km |
+| Alpino | 1.56 km |
+| Asfalto | 663 m |
+| Sterrato | <100 m |
+| Lastricato | <100 m |
 
 ---
 ## ⛰️ Salite e discese

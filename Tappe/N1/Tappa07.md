@@ -37,11 +37,11 @@ Un ultimo strappo ed eccoti al Rifugio Grand Tournalin!
 
 | Punto | Distanza dall'inizio | Descrizione |
 |---|---|---|
-| A | 0 km | Punto di partenza |
+| A | 0 km | **Punto di partenza** |
 | 1 | 5.94 km | **Saint-Jacques-des-Allemands** – Insediamento. A quasi 1.700 metri di altitudine si trova il caratteristico paesino di Saint-Jacques (Saint-Jacques-des-Allemads è il nome completo). L'abitato è un gioiellino incastonato alla fine della val d'Ayas: le case in stile walser si adagiano sulle pendici delle vette del massiccio del Rosa. |
 | 2 | 8.17 km | **Torrente di Nana** – Fiume. Il sentiero corre parallelo al torrente di Nana in un vallone molto ampio. Alle spalle si mostra in tutta la sua magnificenza e bellezza il massiccio del Monte Rosa. |
 | 3 | 11.1 km | **Rifugio Grand Tournalin** – Rifugio. Situato a 2.600 metri di altitudine, nella conca erbosa dell’Alpe Tournalin superiore, il rifugio Grand Tournalin è un edificio in rame e pietra. Costruito nel 1994 dalla famiglia Becquet, il rifugio conta 45 posti letto in stanze accoglienti arredate in legno dai quattro ai otto posti letto. Dalla sua prima edizione nel 2010, il rifugio Grand Tournalin è tappa fissa per il Tor des Géants. In generale i sentieri da queste parti non sono tecnici, ma se sali più in alto il terreno diventa più interessante. |
-| B | 11.1 km | Punto di arrivo |
+| B | 11.1 km | **Punto di arrivo** |
 
 ---
 ## 🥾 Tipi di percorso

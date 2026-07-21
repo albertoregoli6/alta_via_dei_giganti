@@ -33,11 +33,11 @@ Il sentiero attraversa un vallone detritico, un ripiano erboso e raggiunge la pi
 
 | Punto | Distanza dall'inizio | Descrizione |
 |---|---|---|
-| A | 0 km | Punto di partenza |
+| A | 0 km | **Punto di partenza** |
 | 1 | 3,31 km | **Borgata Alpenzu Grande** – Insediamento. Bellissima borgata con ottimi panorami sui ghiacciai, le montagne circostanti e Gressoney |
 | 2 | 10,3 km | **Incantevole ruscello** – Monumento naturale. L'acqua corre lungo le pendici rocciose creando una sinfonia con i rumori della natura |
 | 3 | 11,1 km | **Borgata alpina di Cunéaz** – Insediamento. Borgata estremamente affascinante, con aria di altri tempi e pace profonda |
-| B | 12,8 km | Punto di arrivo |
+| B | 12,8 km | **Punto di arrivo** |
 
 ---
 ## 🥾 Tipi di percorso

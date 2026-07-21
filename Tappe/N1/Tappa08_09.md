@@ -36,11 +36,11 @@ L’ultimo tratto di discesa si sviluppa tra boschi di larici e pianori erbosi, 
 
 | Punto | Distanza dall'inizio | Descrizione |
 |---|---|---|
-| A | 0 km | Punto di partenza |
+| A | 0 km | **Punto di partenza** |
 | 1 | 2.85 km | **Colle delle Fontane** – Passo Montano. Col des Fontaines si trova a 2.696 metri d'altitudine. Da qui si ha una bellissima vista sulle cime circostanti e in parte sul Cervino. |
 | 2 | 5.74 km | **Borgo di montagna di Cheneil** – Insediamento. Cheneil è un piccolo paese situato ai piedi del monte Roisetta, Grand Tournalin, Becca Trecalé e Becca d'Aran. È circondato da larici e laifoglie. Nel paese si trova il santuario della Clavalité e la scuola di alpinismo "Louis Carrel". Cheneil è una delle poche frazioni valdostane che non è accessibile in auto. I sentieri che attraversano il paese variano in termini di difficoltà tecnica, ma è sicuramente possibile correre ovunque. |
 | 3 | 8.86 km | **Valtournenche** – Insediamento. Valtournenche è posta sotto le aguzze vette delle Grandes Murailles e del Cervino, un luogo che è parte della grande storia dell'alpinismo. |
-| B | 8.86 km | Punto di arrivo |
+| B | 8.86 km | **Punto di arrivo** |
 
 ---
 ## 🥾 Tipi di percorso
@@ -111,10 +111,10 @@ Percorri lo sbarramento e raggiungi il Rifugio Barmasse, la meta della nona tapp
 
 | Punto | Distanza dall'inizio | Descrizione |
 |---|---|---|
-| A | 0 km | Punto di partenza |
+| A | 0 km | **Punto di partenza** |
 | 1 | 4.42 km | **Lago di Cignana** – Lago. Il lago artificiale di Cignana, noto anche come lago di Tsignanaz, situato a 2.149 metri di quota, è il lago più grande della valle. La costruzione della diga è stata completata nel 1928. Ci sono diversi percorsi che passano da questa zona e sono tutti poco tecnici, quindi la corsa è facile e confortevole. Non è possibile fare un anello completo intorno al lago, ma c'è un sentiero che percorre le sue sponde meridionali e orientali. |
 | 2 | 4.81 km | **Rifugio Jean Barmasse** – Rifugio. Il rifugio Barmasse si trova sulle sponde del lago di Cignana a 2.200 metri di quota nella valle del Cervino. È il punto di partenza di molte escursioni a piedi e in mountain-bike. |
-| B | 4.81 km | Punto di arrivo |
+| B | 4.81 km | **Punto di arrivo** |
 
 ---
 ## 🥾 Tipi di percorso
