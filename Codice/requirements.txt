@@ -1,0 +1,4 @@
+matplotlib
+staticmap
+Pillow
+requests
