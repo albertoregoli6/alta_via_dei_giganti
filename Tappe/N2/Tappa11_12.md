@@ -1,90 +1,21 @@
-# Tappa 11: Da Rifugio Sogno di Berzé a Rifugio Dondena
+# Tappa 11 + 12 : Da Rifugio Sogno di Berzé a Rifugio Dondena + Da Rifugio Dondena A Champorcher
 
 ## 📊 Dati principali
 
 | Parametro KOMOOT | Valore |
 |---|---|
 | Difficoltà | Difficile |
-| Distanza | 17.2 km |
-| Durata stimata | 8:24 h |
-| Velocità media | 2.0 km/h |
-| Dislivello positivo (salita) | 1600 m |
-| Dislivello negativo (discesa) | 680 m |
+| Distanza | 14.8 km |
+| Durata stimata | 5:30 h |
+| Velocità media | 2.7 km/h |
+| Dislivello positivo (salita) | 270 m |
+| Dislivello negativo (discesa) | 1400 m |
 
 | Parametro ALTA_VIA_Pdf | Valore |
 |---|---|
 | Durata stimata | 2:30 h |
 | Dislivello positivo (salita) | 301 m |
 | Dislivello negativo (discesa) | 643 m |
-
----
-## 🌄 Panoramica
-
-Attraversa il ponte sul torrente Savara, segui il sentiero che corre lungo i campi, infine, imbocca quello a sinistra che si inerpica sul pendio addentrandosi nel bosco.
-
-Tornante dopo tornante la quota aumenta e dopo circa due ore e mezza da Eaux-Rousse, eccoti sul pianoro di Levionaz Inferiore. In questo luogo è presente il Casotto dei guardiaparco del Parco Nazionale del Gran Paradiso, dove studenti e lavoratori dell’Ente soggiornano per studiare e osservare la fauna selvatica. Se fai una breve pausa e guardi attentamente il mondo intorno a te in silenzio, puoi scorgere marmotte, stambecchi o qualche rapace liberarsi in volo.
-
-Procedi lungo il pianoro, poi inizia la graduale ascesa verso il punto più alto delle due Alte Vie: il Col du Loson, a 3.299 metri d’altitudine. L’ultimo tratto è piuttosto ripido. Man mano che sali, il fondo si fa sempre più roccioso; presta quindi molta attenzione nella progressione. Prenditi tutto il tempo necessario per portare a termine questi ultimi metri di dislivello positivo, la quota potrebbe farsi sentire.
-
-La discesa dal valico alpino è decisamente più dolce: il primo tratto è su pietraia, poi passa in mezzo ad una conca erbosa, transita tra i pascoli e ti conduce alla meta del giorno: il Rifugio Vittorio Sella.
-
----
-## 🚩 Punti di passaggio (waypoints)
-
-| Punto | Distanza dall'inizio | Descrizione |
-|---|---|---|
-| A | 0 km | **Punto di partenza** |
-| 1 | 5.05 km | **Casotto di Levionaz** – Rifugio. A Levionaz Inferiore è presente il Casotto utilizzato dai guardiaparco, dagli studenti e dai lavorati del parco nazionale Gran Paradiso. Il pianoro è abitato da marmotte e stambecchi. |
-| 2 | 12.5 km | **Col du Loson** – Passo Montano. A un'altitudine di 3.299 metri, il col du Loson è raggiungibile dal rifugio Vittorio Sella, ad est, e da Eaux Rousses, verso ovest. Questo punto è attraversato dall'Alta Via 2 della Valle d'Aosta e dal Tor des Géants. La salita è ripida tra sfasciumi sul versante che sale da Eaux Rousses, ma il sentiero è ben segnalato e impegnativo, tipico dell'alta montagna. Dal lato opposto, che sale dal rifugio Sella, il terreno è meno ripido. Correre è complicato quassù. |
-| 3 | 17.2 km | **Rifugio Vittorio Sella** – Rifugio. Il rifugio Vittorio Sella è un ottimo punto di sosta. I numerosi sentieri intorno sono piacevoli e divertenti da percorrere. È anche possibile avvistare molti animali selvatici.Nell'estate del 1850, il giovane Vittorio Emanuele II esplorò la valle di Champorcher e sviluppò la passione per la caccia durante una battuta a Cogne. Da allora, il re promosse la creazione di sentieri di caccia e case di caccia intorno al Gran Paradiso. La tradizione venatoria continuò con Umberto I e Vittorio Emanuele III, ma successivamente il parco divenne una riserva naturale e il rifugio alpino del Lauson fu dedicato a Vittorio Sella, famoso fotografo, alpinista e esploratore biellese, nel 1922. |
-| B | 17.2 km | **Punto di arrivo** |
-
----
-## 🥾 Tipi di percorso
-
-| Tipo di percorso | Lunghezza |
-|---|---|
-| Sentiero escursionistico alpino |  km |
-| Sentiero |  km |
-| Strada | m |
-| Strada secondaria |  m |
-| Marciapiede |   m |
-
----
-## 🏔️ Superfici
-
-| Superficie | Lunghezza |
-|---|---|
-| Naturale |  km |
-| Alpino |  km |
-| Asfalto |  m |
-| Non asfaltata |  m |
-| Sterrato |  m |
-| Lastricato |  m |
-
----
-## ⛰️ Salite e discese
-
-| Segmento | Pendenza | Dislivello | Lunghezza |
-|---|---|---|---|
-| Salita  |  % |  m | km |
-| Discesa |  % |  m | km |
-
-![Profilo altimetrico](../../Extra/img/profilo_altimetrico_tappa06.png)
-
----
-# Tappa 12: Da Rifugio Dondena A Champorcher
-
-## 📊 Dati principali
-
-| Parametro KOMOOT | Valore |
-|---|---|
-| Difficoltà |  |
-| Distanza |  km |
-| Durata stimata |  h |
-| Velocità media |  km/h |
-| Dislivello positivo (salita) |  m |
-| Dislivello negativo (discesa) |  m |
 
 | Parametro ALTA_VIA_Pdf | Valore |
 |---|---|
@@ -95,54 +26,64 @@ La discesa dal valico alpino è decisamente più dolce: il primo tratto è su pi
 ---
 ## 🌄 Panoramica
 
+Dal Rifugio Sogno di Berdzé sali al colle Fenêtre de Champorcher, a 2.827 metri di altitudine, seguendo la traccia che con una serie di tornanti risale le pietraie.
 
+La vista dalla Fenêtre de Champorcher è maestosa: di fronte a te c’è nuovamente il Gran Paradiso. Sul colle, inoltre, si trova anche un vecchio ricovero militare.
+
+Ti trovi sullo spartiacque di due parchi: lascia alle tue spalle il Parco Nazionale del Gran Paradiso e addentrati in quello Regionale del Monte Avic. Scendi al Lago Misérin, a due passi dall’omonimo rifugio, dove puoi concederti una meritata pausa, prima di proseguire lungo la strada sterrata per il Rifugio Dondena.
+
+Oltre il Rifugio Dondena il sentiero attraversa due importanti alpeggi, quello di Champlong e di Créton. Segui il “Sentiero della Scaletta”, chiamato così perché caratterizzato da lunghe scalinate, che ti fanno perdere velocemente quota.
+
+Una larga strada in pietra ti guida verso il centro di Chardonney. Quest’opera di ingegneria civile venne creata ai tempi di Re Vittorio Emanuele II, quando il vallone era la meta prediletta per le battute di caccia. Da Chardonney a Champorcher il passo è breve.
 
 ---
 ## 🚩 Punti di passaggio (waypoints)
 
 | Punto | Distanza dall'inizio | Descrizione |
 |---|---|---|
-| A | 0 km | Punto di partenza |
-| 1 |  km | **Borgata Alpenzu Grande** – Insediamento. Bellissima borgata con ottimi panorami sui ghiacciai, le montagne circostanti e Gressoney |
-| 2 | km | **Incantevole ruscello** – Monumento naturale. L'acqua corre lungo le pendici rocciose creando una sinfonia con i rumori della natura |
-| 3 |  km | **Borgata alpina di Cunéaz** – Insediamento. Borgata estremamente affascinante, con aria di altri tempi e pace profonda |
-| B |  km | Punto di arrivo |
+| A | 0 km | **Punto di partenza** |
+| 1 | 1.92 km | **Fenêtre de Champorcher** – Passo Montano. La Finestra di Champorcher si trova tra Cogne e Champorcher, a un'altitudine di 2.827 metri. Da qui si può ammirare chiaramente il Gran Paradiso. Anche se la differenza di altitudine può essere faticosa, il sentiero è reso meno impegnativo grazie ai tornanti e non presenta particolari difficoltà tecniche. Inoltre, è presente anche un ricovero di emergenza in caso di maltempo.|
+| 2 | 3.89 km | **Lago Miserin** – Lago. Questo ampio lago nella valle di Champorcher si trova in un pianoro con nelle vicinanze il santuario Madonna delle Nevi e il rifugio Miserin. Si raggiunge facilmente dal parcheggio Dondena. |
+| 3 | 3.98 km | **Rifugio Misèrin** – Rifugio. Il Rifugio Misérin in passato fu un ospizio per i pellegrini che raggiungevano il Santuario della Madonna delle Nevi. È situato a 2.582 metri d'altitudine, sulle sponde del lago Misérin nel Parco regionale Mont Avic. |
+| 4 | 7.53 km | **Rifugio Dondena** – Rifugio. Situato a un'altitudine di 2192 metri, il rifugio Dondena è una ex casa di caccia reale che conserva ancora una parte originale risalente alla fine dell'Ottocento. Questo rifugio si trova in una posizione strategica per le escursioni in alta quota, poiché si trova all'incrocio dei sentieri del parco nazionale del Gran Paradiso, del parco regionale del Mont Avic e delle valli piemontesi. È facilmente accessibile grazie alla vicinanza alla strada sterrata comunale, rendendolo un ottimo punto di partenza per i sentieri. I sentieri intorno al rifugio sono percorsi sterrati, il che rende piacevole correre in quest'area. |
+| 5 | 14.8 km | **Champorcher** – Monumento. Champorcher è un incantevole borgo alpino. In una delle sue frazioni c'è il centro visitatori del Parco naturale Mont Avic. È un ottimo punto di partenza per escursioni sia estive che invernali. |
+| B | 14.8 km km | **Punto di arrivo** |
 
 ---
 ## 🥾 Tipi di percorso
 
 | Tipo di percorso | Lunghezza |
 |---|---|
-| Sentiero escursionistico alpino |  km |
-| Sentiero |  km |
-| Strada | m |
-| Strada secondaria |  m |
-| Marciapiede |   m |
+| Sentiero escursionistico alpino | 7.89 km |
+| Sentiero | 4.91 km |
+| Sentiero escursionistico | 1.50 km |
+| Strada | 403 m |
+| Strada secondaria | 123 m |
+| Marciapiede | <100 m |
 
 ---
 ## 🏔️ Superfici
 
 | Superficie | Lunghezza |
 |---|---|
-| Naturale |  km |
-| Alpino |  km |
-| Asfalto |  m |
-| Non asfaltata |  m |
-| Sterrato |  m |
-| Lastricato |  m |
+| Naturale | 7.41 km |
+| Alpino | 5.73 km |
+| Lastricato | 690 m |
+| Sterrato | 500 m |
+| Asfalto | 244 m |
+| Non asfaltata | 177 m |
+| Sconosciuta | <100 m |
 
 ---
 ## ⛰️ Salite e discese
 
 | Segmento | Pendenza | Dislivello | Lunghezza |
 |---|---|---|---|
-| Salita  |  % |  m | km |
-| Discesa |  % |  m | km |
+| Salita  | 13 % | 264 m | 2.00 km |
+| Discesa | 11 % | 797 m | 7.45 km |
+| Discesa | 15 % | 551 m | 3.56 km |
 
 ![Profilo altimetrico](../../Extra/img/profilo_altimetrico_tappa06.png)
-
----
-# METTERE TRATTO A PIEDI PER ARRIVARE AL BUS
 
 ---
 ## ⛺ Punti di sosta e pernottamento
