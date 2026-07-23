@@ -20,4 +20,4 @@
 | Tor des Géants - Etroubles | 5km da Champillon | Centro sportivo | non so se fa da mangiare|
 | Forno di Eternod | circa 5km da Tor des Géants - Etroubles | Pornaio | - |
 | Paesino sottostante| raggiungibile facendo deviazione (credo lunghetta) | - | - |
-| Paesino sottostante| raggiungibile facendo deviazione (credo lunghetta) | - | - |
+| | - | - |
