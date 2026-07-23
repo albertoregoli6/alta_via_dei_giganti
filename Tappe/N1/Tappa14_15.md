@@ -153,11 +153,14 @@ Il Rifugio Pier Giorgio Frassati è intitolato a un giovane ragazzo biellese, og
 ![Profilo altimetrico](../../Extra/img/N1/profilo_altimetrico_tappa15.png)
 
 ---
-## ⛺ Punti di sosta e pernottamento
-[Pernottamento](../../Rifugi/N1/Pernottamento_16_08_2026.md)
+## 🍺 Punti recupero cibo 
+| Nome | Posizione | Tipo | Km da percorrere | Posizione | Note |
+| :--: | :-------: | :--: | :--------------: | :-------: | :--: |
+| | | | | [Posizione Maps]() | | 
 
 ---
-## 🍺 Punti recupero cibo 
+## ⛺ Punti di sosta e pernottamento
+[Pernottamento](../../Rifugi/N1/Pernottamento_16_08_2026.md)
 
 ---
 ## Fonti

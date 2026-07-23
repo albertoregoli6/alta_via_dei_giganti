@@ -80,11 +80,14 @@ Raggiungi il Col Terray e poi l’Oratorio di Cuney, un luogo affascinante e ric
 ![Profilo altimetrico](../../Extra/img/N1/profilo_altimetrico_tappa10.png)
 
 ---
-## ⛺ Punti di sosta e pernottamento
-[Pernottamento](../../Rifugi/N1/Pernottamento_13_08_2026.md)
+## 🍺 Punti recupero cibo 
+| Nome | Posizione | Tipo | Km da percorrere | Posizione | Note |
+| :--: | :-------: | :--: | :--------------: | :-------: | :--: |
+| | | | | [Posizione Maps]() | | 
 
 ---
-## 🍺 Punti recupero cibo 
+## ⛺ Punti di sosta e pernottamento
+[Pernottamento](../../Rifugi/N1/Pernottamento_13_08_2026.md) 
 
 ---
 ## Fonti

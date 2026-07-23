@@ -152,12 +152,14 @@ Questo piccolo borgo alpino è incorniciato da vette imponenti e un’infinità 
 ![Profilo altimetrico](../../Extra/img/N1/profilo_altimetrico_tappa12.png)
 
 ---
-
-## ⛺ Punti di sosta e pernottamento
-[Pernottamento](../../Rifugi/N1/Pernottamento_14_08_2026.md)
+## 🍺 Punti recupero cibo 
+| Nome | Posizione | Tipo | Km da percorrere | Posizione | Note |
+| :--: | :-------: | :--: | :--------------: | :-------: | :--: |
+| | | | | [Posizione Maps]() | | 
 
 ---
-## 🍺 Punti recupero cibo 
+## ⛺ Punti di sosta e pernottamento
+[Pernottamento](../../Rifugi/N1/Pernottamento_14_08_2026.md)
 
 ---
 ## Fonti

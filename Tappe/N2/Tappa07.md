@@ -79,11 +79,14 @@ Boschi di larice e pascoli si susseguono e ti accompagnano lungo l’ultima disc
 ![Profilo altimetrico](../../Extra/img/N2/profilo_altimetrico_tappa07.png)
 
 ---
-## ⛺ Punti di sosta e pernottamento
-[Pernottamento](../../Rifugi/N2/Pernottamento_18_08_2026.md)
+## 🍺 Punti recupero cibo 
+| Nome | Posizione | Tipo | Km da percorrere | Posizione | Note |
+| :--: | :-------: | :--: | :--------------: | :-------: | :--: |
+| | | | | [Posizione Maps]() | | 
 
 ---
-## 🍺 Punti recupero cibo 
+## ⛺ Punti di sosta e pernottamento
+[Pernottamento](../../Rifugi/N2/Pernottamento_18_08_2026.md)
 
 ---
 ## Fonti

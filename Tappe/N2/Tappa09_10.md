@@ -159,12 +159,14 @@ Abbandonato il bosco, il sentiero si fa via via più pianeggiante, attraversa am
 ![Profilo altimetrico](../../Extra/img/N2/profilo_altimetrico_tappa10.png)
 
 ---
-
-## ⛺ Punti di sosta e pernottamento
-[Pernottamento](../../Rifugi/N2/Pernottamento_20_08_2026.md)
+## 🍺 Punti recupero cibo 
+| Nome | Posizione | Tipo | Km da percorrere | Posizione | Note |
+| :--: | :-------: | :--: | :--------------: | :-------: | :--: |
+| | | | | [Posizione Maps]() | | 
 
 ---
-## 🍺 Punti recupero cibo 
+## ⛺ Punti di sosta e pernottamento
+[Pernottamento](../../Rifugi/N2/Pernottamento_20_08_2026.md)
 
 ---
 ## Fonti

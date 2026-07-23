@@ -80,11 +80,14 @@ Un ultimo strappo ed eccoti al Rifugio Grand Tournalin!
 ![Profilo altimetrico](../../Extra/img/N1/profilo_altimetrico_tappa07.png)
 
 ---
-## ⛺ Punti di sosta e pernottamento
-[Pernottamento](../../Rifugi/N1/Pernottamento_11_08_2026.md)
+## 🍺 Punti recupero cibo 
+| Nome | Posizione | Tipo | Km da percorrere | Posizione | Note |
+| :--: | :-------: | :--: | :--------------: | :-------: | :--: |
+| | | | | [Posizione Maps]() | | 
 
 ---
-## 🍺 Punti recupero cibo 
+## ⛺ Punti di sosta e pernottamento
+[Pernottamento](../../Rifugi/N1/Pernottamento_11_08_2026.md)
 
 ---
 ## Fonti

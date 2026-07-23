@@ -152,12 +152,15 @@ Da qui puoi raggiungere in bus Aosta e da lì prendere un treno per le diverse l
 ![Profilo altimetrico](../../Extra/img/N1/profilo_altimetrico_tappa17.png)
 
 ---
+## 🍺 Punti recupero cibo 
+| Nome | Posizione | Tipo | Km da percorrere | Posizione | Note |
+| :--: | :-------: | :--: | :--------------: | :-------: | :--: |
+| | | | | [Posizione Maps]() | | 
+
+---
 
 ## ⛺ Punti di sosta e pernottamento
 [Pernottamento](../../Rifugi/N1/Pernottamento_17_08_2026.md)
-
----
-## 🍺 Punti recupero cibo 
 
 ---
 ## Fonti

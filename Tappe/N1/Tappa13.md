@@ -70,11 +70,14 @@ Un ultimo sforzo ed eccoti al Rifugio Letey-Champillon, da cui puoi godere di un
 ![Profilo altimetrico](../../Extra/img/N1/profilo_altimetrico_tappa13.png)
 
 ---
-## ⛺ Punti di sosta e pernottamento
-[Pernottamento](../../Rifugi/N1/Pernottamento_15_08_2026.md)
+## 🍺 Punti recupero cibo 
+| Nome | Posizione | Tipo | Km da percorrere | Posizione | Note |
+| :--: | :-------: | :--: | :--------------: | :-------: | :--: |
+| | | | | [Posizione Maps]() | | 
 
 ---
-## 🍺 Punti recupero cibo 
+## ⛺ Punti di sosta e pernottamento
+[Pernottamento](../../Rifugi/N1/Pernottamento_15_08_2026.md)
 
 ---
 ## Fonti

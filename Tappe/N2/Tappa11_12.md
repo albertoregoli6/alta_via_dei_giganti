@@ -89,11 +89,14 @@ Una larga strada in pietra ti guida verso il centro di Chardonney. Quest’opera
 ![Profilo altimetrico](../../Extra/img/N2/profilo_altimetrico_tappa12.png)
 
 ---
-## ⛺ Punti di sosta e pernottamento
-Si torna a casina !!!
+## 🍺 Punti recupero cibo 
+| Nome | Posizione | Tipo | Km da percorrere | Posizione | Note |
+| :--: | :-------: | :--: | :--------------: | :-------: | :--: |
+| | | | | [Posizione Maps]() | | 
 
 ---
-## 🍺 Punti recupero cibo 
+## ⛺ Punti di sosta e pernottamento
+Si torna a casina !!!
 
 ---
 ## Fonti
