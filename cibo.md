@@ -20,4 +20,11 @@
 | Tor des Géants - Etroubles | 5km da Champillon | Centro sportivo | non so se fa da mangiare|
 | Forno di Eternod | circa 5km da Tor des Géants - Etroubles | Pornaio | - |
 | Paesino sottostante| raggiungibile facendo deviazione (credo lunghetta) | - | - |
-| | - | - |
+| Prosciuttificio De Bosses | fine tappa 14| Alimentari | Non so se c'è veg |
+| Saint Rhèmy | dopo 2km circa| - | Prosegunedo c'è altro |
+| Rifugio Frassati | fine tappa 15 | Rifugio | - |
+| Rifugio Bonatti | fine tappa 16 | Rifugio | scendendo nella valle più avanti c'è altro |
+| Ristorante Locanda Belvedere | scendendo a valle dopo Bonatti | Ristorante | - |
+| Entreves | poco prima di Courmayeur | Paese | - |
+| Courmayeur | Fine alta via 1 | Paese | - |
+
