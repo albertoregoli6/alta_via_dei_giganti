@@ -1,5 +1,11 @@
 # Tappa 06: Da Gressoney-Saint-Jean a Crest
 
+<p align="center">
+  <img src="../../Extra/img/N1/tappa_6_da_gressoney_saint_jean_a_crest/mappa_percorso.png" alt="Descrizione" width="400">
+</p>
+
+![Mappa](../../Extra/img/N1/tappa_6_da_gressoney_saint_jean_a_crest/mappa_percorso.png)
+
 ## 📊 Dati principali
 
 | Parametro KOMOOT | Valore |
