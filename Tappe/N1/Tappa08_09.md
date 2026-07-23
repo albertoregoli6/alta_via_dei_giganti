@@ -10,6 +10,7 @@
 | Velocità media | 2.1 km/h |
 | Dislivello positivo (salita) | 260 m |
 | Dislivello negativo (discesa) | 1290 m |
+| Traccia GPX | [Traccia](GPX/N1/Tappa%208_%20Dal%20Rifugio%20Grand%20Tournalin%20a%20Valtournenche.gpx) |
 
 | Parametro ALTA_VIA_Pdf | Valore |
 | :--------------------: | :----: |
@@ -88,6 +89,7 @@ L’ultimo tratto di discesa si sviluppa tra boschi di larici e pianori erbosi, 
 | Velocità media | 1.9 km/h |
 | Dislivello positivo (salita) | 650 m |
 | Dislivello negativo (discesa) | 0 m |
+| Traccia GPX | [Traccia](GPX/N1/Tappa%209_%20Da%20Valtournenche%20al%20Rifugio%20Barmasse.gpx) |
 
 | Parametro ALTA_VIA_Pdf | Valore |
 | :--------------------: | :----: |

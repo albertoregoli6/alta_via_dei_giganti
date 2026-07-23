@@ -10,6 +10,7 @@
 | Velocità media | 2.3 km/h |
 | Dislivello positivo (salita) | 410 m |
 | Dislivello negativo (discesa) | 1670 m |
+| Traccia GPX | [Traccia](GPX/N1/Tappa%2011_%20Dal%20Rifugio%20Oratorio%20di%20CunВy%20a%20Oyace.gpx) |
 
 | Parametro ALTA_VIA_Pdf | Valore |
 | :--------------------: | :----: |
@@ -88,6 +89,7 @@ L’undicesima tappa termina a Oyace, un piccolo centro della Valpelline, abbrac
 | Velocità media | 2.0 km/h |
 | Dislivello positivo (salita) | 1100 m |
 | Dislivello negativo (discesa) | 1110 m |
+| Traccia GPX | [Traccia](GPX/N1/Tappa%2012_%20Da%20Oyace%20a%20Ollomont.gpx) |
 
 | Parametro ALTA_VIA_Pdf | Valore |
 | :--------------------: | :----: |

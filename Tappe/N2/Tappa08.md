@@ -10,6 +10,7 @@
 | Velocità media | 2.0 km/h |
 | Dislivello positivo (salita) | 1600 m |
 | Dislivello negativo (discesa) | 680 m |
+| Traccia GPX | [Traccia](GPX/N2/8.eaux-rousses%20-%20rifugio%20vittorio%20sella.gpx) |
 
 | Parametro ALTA_VIA_Pdf | Valore |
 | :--------------------: | :----: |

@@ -10,6 +10,7 @@
 | Velocità media | 2.2 km/h |
 | Dislivello positivo (salita) | 1060 m |
 | Dislivello negativo (discesa) | 450 m |
+| Traccia GPX | [Traccia](GPX/N1/Tappa%207_%20Da%20Crest%20al%20Rifugio%20Grand%20Tournalin.gpx) |
 
 | Parametro ALTA_VIA_Pdf | Valore |
 | :--------------------: | :----: |

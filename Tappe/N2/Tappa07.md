@@ -10,6 +10,7 @@
 | Velocità media | 1.8 km/h |
 | Dislivello positivo (salita) | 1290 m |
 | Dislivello negativo (discesa) | 1350 m |
+| Traccia GPX | [Traccia](GPX/N2/7.rhemes-notre-dame%20-%20eaux-rousses.gpx) |
 
 | Parametro ALTA_VIA_Pdf | Valore |
 | :--------------------: | :----: |

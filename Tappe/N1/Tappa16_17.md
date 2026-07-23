@@ -10,6 +10,7 @@
 | Velocità media | 2.1 km/h |
 | Dislivello positivo (salita) | 350 m |
 | Dislivello negativo (discesa) | 860 m |
+| Traccia GPX |[Traccia](GPX/N1/Tappa%2016_%20Dal%20Rifugio%20Frassati%20al%20Rifugio%20Bonatti.gpx) |
 
 | Parametro ALTA_VIA_Pdf | Valore |
 | :--------------------: | :----: |
@@ -80,6 +81,7 @@ Ultimo tratto in discesa ed eccoti al Rifugio Walter Bonatti, dedicato a uno dei
 | Velocità media | 2.6 km/h |
 | Dislivello positivo (salita) | 200 m |
 | Dislivello negativo (discesa) | 1010 m |
+| Traccia GPX | [Traccia](GPX/N1/Tappa%2017_%20Dal%20Rifugio%20Bonatti%20a%20Courmayeur.gpx) |
 
 | Parametro ALTA_VIA_Pdf | Valore |
 | :--------------------: | :----: |

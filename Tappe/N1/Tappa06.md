@@ -10,6 +10,7 @@
 | Velocità media | 1,9 km/h |
 | Dislivello positivo (salita) | 1.390 m |
 | Dislivello negativo (discesa) | 860 m |
+| Traccia GPX | [Traccia](GPX/N1/Tappa%206_%20Da%20Gressoney-Saint-Jean%20a%20Crest.gpx) |
 
 | Parametro ALTA_VIA_Pdf | Valore |
 | :--------------------: | :----: |

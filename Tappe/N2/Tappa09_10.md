@@ -10,6 +10,7 @@
 | Velocità media | 2.6 km/h |
 | Dislivello positivo (salita) | 0 m |
 | Dislivello negativo (discesa) | 1030 m |
+| Traccia GPX | [Traccia](GPX/N2/9.rifugio%20vittorio%20sella%20-%20cogne.gpx) |
 
 | Parametro ALTA_VIA_Pdf | Valore |
 | :--------------------: | :----: |
@@ -88,6 +89,7 @@ Percorri controcorrente il corso del fiume, poi scendi lungo la pista forestale 
 | Velocità media | 2.6 km/h |
 | Dislivello positivo (salita) | 1000 m |
 | Dislivello negativo (discesa) | 10 m |
+| Traccia GPX | [Traccia](GPX/N2/10.cogne%20-%20rifugio%20sogno%20di%20berdzВ.gpx) |
 
 | Parametro ALTA_VIA_Pdf | Valore |
 | :--------------------: | :----: |

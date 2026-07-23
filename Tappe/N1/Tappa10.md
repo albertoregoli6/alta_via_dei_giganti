@@ -10,6 +10,7 @@
 | Velocità media | 2.1 km/h |
 | Dislivello positivo (salita) | 1230 m |
 | Dislivello negativo (discesa) | 770 m |
+| Traccia GPX | [Traccia](GPX/N1/Tappa%2010_%20Dal%20Rifugio%20Barmasse%20al%20Rifugio%20Oratorio%20di%20CunВy.gpx) |
 
 | Parametro ALTA_VIA_Pdf | Valore |
 | :--------------------: | :----: |

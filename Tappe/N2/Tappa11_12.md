@@ -10,6 +10,8 @@
 | Velocità media | 2.7 km/h |
 | Dislivello positivo (salita) | 270 m |
 | Dislivello negativo (discesa) | 1400 m |
+| Traccia GPX | [Traccia](GPX/N2/11.rifugio%20sogno%20di%20berdzВ%20-%20rifugio%20dondena.gpx) |
+| Traccia GPX | [Traccia](GPX/N2/12.rifugio%20dondena%20-%20champorcher.gpx) |
 
 | Parametro ALTA_VIA_Pdf | Valore |
 | :--------------------: | :----: |

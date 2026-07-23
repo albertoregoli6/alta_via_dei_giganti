@@ -10,6 +10,7 @@
 | Velocità media | 1.7 km/h |
 | Dislivello positivo (salita) | 1040 m |
 | Dislivello negativo (discesa) | 0 m |
+| Traccia GPX | [Traccia](GPX/N1/Tappa%2013_%20Da%20Ollomont%20al%20Rifugio%20LВtey%20Champillon.gpx) |
 
 | Parametro ALTA_VIA_Pdf | Valore |
 | :--------------------: | :----: |

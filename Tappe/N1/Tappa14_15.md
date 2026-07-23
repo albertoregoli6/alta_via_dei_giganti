@@ -10,6 +10,7 @@
 | Velocità media | 2.4 km/h |
 | Dislivello positivo (salita) | 510 m |
 | Dislivello negativo (discesa) | 1330 m |
+| Traccia GPX | [Traccia](GPX/N1/Tappa%2014_%20Dal%20Rifugio%20LВtey%20Champillon%20a%20Saint-RhВmy.gpx) |
 
 | Parametro ALTA_VIA_Pdf | Valore |
 | :--------------------: | :----: |
@@ -86,6 +87,7 @@ Le strutture ricettive a Saint-Rhémy e nei dintorni non mancano. Ti consiglio d
 | Velocità media | 2.4 km/h |
 | Dislivello positivo (salita) | 1000 m |
 | Dislivello negativo (discesa) | 60 m |
+| Traccia GPX | [Traccia](GPX/N1/Tappa%2015_%20Da%20Saint-RhВmy-en-Bosses%20al%20Rifugio%20Frassati.gpx) |
 
 | Parametro ALTA_VIA_Pdf | Valore |
 | :--------------------: | :----: |
