@@ -64,7 +64,8 @@ Questa raccolta custodisce le cronache del loro viaggio divise in:
 ---
 
 # TODO - ALBERTO
-- [] fare le tappe (mettere posti dove mangiare + grafici del percorso + link alle tracce)
-- [] guardare cibo durante il viaggio
-- [] aggiustare bus ritorno
-- formattare correttamente tutte le tabelle e ordine crescente dati 
+- [] fare le tappe ( grafici del percorso)
+- [] guardare cibo durante il viaggio + inserire nelle tappe
+- [] screen da pdf di altimetria
+- [] aggiustare bus ritorno + bus courmayeur-rhemes-notre-dame
+- [] fare immagini totali dei sentieri
