@@ -72,7 +72,7 @@ Le strutture ricettive a Saint-Rhémy e nei dintorni non mancano. Ti consiglio d
 | Discesa | 7 % | 134 m | 1.92 km |
 | Discesa | 7 % | 58 m | 895 m |
 
-![Profilo altimetrico](../../Extra/img/profilo_altimetrico_tappa06.png)
+![Profilo altimetrico](../../Extra/img/N1/profilo_altimetrico_tappa14.png)
 
 ---
 # Tappa 15: Da Saint-Rhèmy a Rifugio Pier Giorgio Frassati 
@@ -150,7 +150,7 @@ Il Rifugio Pier Giorgio Frassati è intitolato a un giovane ragazzo biellese, og
 | Salita  | 12 % | 270 m | 2.27 km |
 | Salita  | 14 % | 635 m | 4.50 km |
 
-![Profilo altimetrico](../../Extra/img/profilo_altimetrico_tappa06.png)
+![Profilo altimetrico](../../Extra/img/N1/profilo_altimetrico_tappa15.png)
 
 ---
 ## ⛺ Punti di sosta e pernottamento

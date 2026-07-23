@@ -77,7 +77,7 @@ Raggiungi il Col Terray e poi l’Oratorio di Cuney, un luogo affascinante e ric
 | Discesa | 17 % | 143 m | 838 m |
 | Discesa | 15 % | 115 m | 743 m |
 
-![Profilo altimetrico](../../Extra/img/profilo_altimetrico_tappa06.png)
+![Profilo altimetrico](../../Extra/img/N1/profilo_altimetrico_tappa10.png)
 
 ---
 ## ⛺ Punti di sosta e pernottamento

@@ -71,7 +71,7 @@ Il sentiero attraversa un vallone detritico, un ripiano erboso e raggiunge la pi
 | Salita  | 22 % | 1.320 m | 6,01 km |
 | Discesa | 19 % | 855 m | 4,47 km |
 
-![Profilo altimetrico](../../Extra/img/profilo_altimetrico_tappa06.png)
+![Profilo altimetrico](../../Extra/img/N1/profilo_altimetrico_tappa06.png)
 
 ---
 ## ⛺ Punti di sosta e pernottamento

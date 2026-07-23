@@ -74,7 +74,7 @@ Percorri controcorrente il corso del fiume, poi scendi lungo la pista forestale 
 | :------: | :------: | :--------: | :-------: |
 | Discesa  | 16 % | 910 m | 5.73 km |
 
-![Profilo altimetrico](../../Extra/img/profilo_altimetrico_tappa06.png)
+![Profilo altimetrico](../../Extra/img/N2/profilo_altimetrico_tappa09.png)
 
 ---
 # Tappa 10: Da Cogne a Rifugio Sogno di Berzé 
@@ -156,7 +156,7 @@ Abbandonato il bosco, il sentiero si fa via via più pianeggiante, attraversa am
 | Salita  | 11 % | 544 m | 5.06 km |
 | Salita  | 5 % | 100 m | 1.87 km |
 
-![Profilo altimetrico](../../Extra/img/profilo_altimetrico_tappa06.png)
+![Profilo altimetrico](../../Extra/img/N2/profilo_altimetrico_tappa10.png)
 
 ---
 

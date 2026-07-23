@@ -67,7 +67,7 @@ Un ultimo sforzo ed eccoti al Rifugio Letey-Champillon, da cui puoi godere di un
 | :------: | :------: | :--------: | :-------: |
 | Salita  | 21 % | 1030 m | 4.9 km |
 
-![Profilo altimetrico](../../Extra/img/profilo_altimetrico_tappa06.png)
+![Profilo altimetrico](../../Extra/img/N1/profilo_altimetrico_tappa13.png)
 
 ---
 ## ⛺ Punti di sosta e pernottamento

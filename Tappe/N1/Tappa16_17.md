@@ -66,7 +66,7 @@ Ultimo tratto in discesa ed eccoti al Rifugio Walter Bonatti, dedicato a uno dei
 | Discesa | 19 % | 528 m | 2.81 km |
 | Discesa | 12 % | 335 m | 2.73 km |
 
-![Profilo altimetrico](../../Extra/img/profilo_altimetrico_tappa06.png)
+![Profilo altimetrico](../../Extra/img/N1/profilo_altimetrico_tappa16.png)
 
 ---
 # Tappa 17: Da Rifugio Walter Bonatti a Courmayer 
@@ -149,7 +149,7 @@ Da qui puoi raggiungere in bus Aosta e da lì prendere un treno per le diverse l
 | Discesa | 8 % | 54 m | 656 m |
 | Discesa | 17 % | 821 m | 4.84 km |
 
-![Profilo altimetrico](../../Extra/img/profilo_altimetrico_tappa06.png)
+![Profilo altimetrico](../../Extra/img/N1/profilo_altimetrico_tappa17.png)
 
 ---
 

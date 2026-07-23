@@ -71,7 +71,7 @@ La discesa dal valico alpino è decisamente più dolce: il primo tratto è su pi
 | Salita  | 14 % | 833 m | 5.81 m |
 | Discesa | 14 % | 671 m | 4.68 km |
 
-![Profilo altimetrico](../../Extra/img/profilo_altimetrico_tappa06.png)
+![Profilo altimetrico](../../Extra/img/N2/profilo_altimetrico_tappa08.png)
 
 ---
 ## ⛺ Punti di sosta e pernottamento

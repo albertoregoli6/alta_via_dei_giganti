@@ -74,7 +74,7 @@ L’undicesima tappa termina a Oyace, un piccolo centro della Valpelline, abbrac
 | Discesa | 17 % | 1416 m | 8.52 km |
 | Discesa | 9 % | 58 m | 633 m |
 
-![Profilo altimetrico](../../Extra/img/profilo_altimetrico_tappa06.png)
+![Profilo altimetrico](../../Extra/img/N1/profilo_altimetrico_tappa11.png)
 
 ---
 # Tappa 12: Da Oyace a Rey
@@ -149,7 +149,7 @@ Questo piccolo borgo alpino è incorniciato da vette imponenti e un’infinità 
 | Salita  | 16 % | 1092 m | 6.68 km |
 | Discesa | 19 % | 1107 m | 5.92 km |
 
-![Profilo altimetrico](../../Extra/img/profilo_altimetrico_tappa06.png)
+![Profilo altimetrico](../../Extra/img/N1/profilo_altimetrico_tappa12.png)
 
 ---
 

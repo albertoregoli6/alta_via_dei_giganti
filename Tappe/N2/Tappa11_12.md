@@ -85,7 +85,8 @@ Una larga strada in pietra ti guida verso il centro di Chardonney. Quest’opera
 | Discesa | 11 % | 797 m | 7.45 km |
 | Discesa | 15 % | 551 m | 3.56 km |
 
-![Profilo altimetrico](../../Extra/img/profilo_altimetrico_tappa06.png)
+![Profilo altimetrico](../../Extra/img/N2/profilo_altimetrico_tappa11.png)
+![Profilo altimetrico](../../Extra/img/N2/profilo_altimetrico_tappa12.png)
 
 ---
 ## ⛺ Punti di sosta e pernottamento

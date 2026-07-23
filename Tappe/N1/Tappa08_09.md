@@ -73,7 +73,7 @@ L’ultimo tratto di discesa si sviluppa tra boschi di larici e pianori erbosi, 
 | Discesa | 12 % | 114 m | 963 m |
 | Discesa | 21 % | 1166 m | 5.53 km |
 
-![Profilo altimetrico](../../Extra/img/profilo_altimetrico_tappa06.png)
+![Profilo altimetrico](../../Extra/img/N1/profilo_altimetrico_tappa08.png)
 
 ---
 
@@ -147,7 +147,7 @@ Percorri lo sbarramento e raggiungi il Rifugio Barmasse, la meta della nona tapp
 | :------: | :------: | :--------: | :-------: |
 | Salita  | 16 % | 621 m | 3.80 km |
 
-![Profilo altimetrico](../../Extra/img/profilo_altimetrico_tappa06.png)
+![Profilo altimetrico](../../Extra/img/N1/profilo_altimetrico_tappa09.png)
 
 ---
 ## ⛺ Punti di sosta e pernottamento

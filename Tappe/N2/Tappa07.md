@@ -76,7 +76,7 @@ Boschi di larice e pascoli si susseguono e ti accompagnano lungo l’ultima disc
 | Discesa | 15 % | 677 m | 4.44 km |
 | Discesa | 13 % | 667 m | 5.14 km |
 
-![Profilo altimetrico](../../Extra/img/profilo_altimetrico_tappa06.png)
+![Profilo altimetrico](../../Extra/img/N2/profilo_altimetrico_tappa07.png)
 
 ---
 ## ⛺ Punti di sosta e pernottamento

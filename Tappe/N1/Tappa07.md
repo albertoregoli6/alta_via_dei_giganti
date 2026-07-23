@@ -77,7 +77,7 @@ Un ultimo strappo ed eccoti al Rifugio Grand Tournalin!
 | Discesa | 8 % | 59 m | 712 m |
 | Discesa | 19 % | 346 m | 1.79 km |
 
-![Profilo altimetrico](../../Extra/img/profilo_altimetrico_tappa06.png)
+![Profilo altimetrico](../../Extra/img/N1/profilo_altimetrico_tappa07.png)
 
 ---
 ## ⛺ Punti di sosta e pernottamento
