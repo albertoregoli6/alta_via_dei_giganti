@@ -18,6 +18,8 @@
 | Dislivello positivo (salita) | 294 m |
 | Dislivello negativo (discesa) | 1317 m |
 
+![Mappa](../../Extra/img/N1/tappa_8_dal_rifugio_grand_tournalin_a_valtournenche/mappa_percorso.png)
+
 ---
 ## 🌄 Panoramica
 
@@ -96,6 +98,8 @@ L’ultimo tratto di discesa si sviluppa tra boschi di larici e pianori erbosi, 
 | Durata stimata | 2:10 h |
 | Dislivello positivo (salita) | 682 m |
 | Dislivello negativo (discesa) | 25 m |
+
+![Mappa](../../Extra/img/N1/tappa_9_da_valtournenche_al_rifugio_barmasse/mappa_percorso.png)
 
 ---
 ## 🌄 Panoramica

@@ -18,6 +18,8 @@
 | Dislivello positivo (salita) | 1233 m |
 | Dislivello negativo (discesa) | 770 m |
 
+![Mappa](../../Extra/img/N1/tappa_10_dal_rifugio_barmasse_al_rifugio_oratorio_di_cun_y/mappa_percorso.png)
+
 ---
 ## 🌄 Panoramica
 

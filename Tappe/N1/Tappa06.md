@@ -1,11 +1,5 @@
 # Tappa 06: Da Gressoney-Saint-Jean a Crest
 
-<p align="center">
-  <img src="../../Extra/img/N1/tappa_6_da_gressoney_saint_jean_a_crest/mappa_percorso.png" alt="Descrizione" width="400">
-</p>
-
-![Mappa](../../Extra/img/N1/tappa_6_da_gressoney_saint_jean_a_crest/mappa_percorso.png)
-
 ## 📊 Dati principali
 
 | Parametro KOMOOT | Valore |
@@ -23,6 +17,8 @@
 | Durata stimata | 06:30 h |
 | Dislivello positivo (salita) | 1.247 m |
 | Dislivello negativo (discesa) | 890 m |
+
+![Mappa](../../Extra/img/N1/tappa_6_da_gressoney_saint_jean_a_crest/mappa_percorso.png)
 
 ---
 ## 🌄 Panoramica

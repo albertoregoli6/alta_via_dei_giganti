@@ -18,6 +18,8 @@
 | Dislivello positivo (salita) | 430 m |
 | Dislivello negativo (discesa) | 903 m |
 
+![Mappa](../../Extra/img/N1/tappa_16_dal_rifugio_frassati_al_rifugio_bonatti/mappa_percorso.png)
+
 ---
 ## 🌄 Panoramica
 
@@ -88,6 +90,8 @@ Ultimo tratto in discesa ed eccoti al Rifugio Walter Bonatti, dedicato a uno dei
 | Durata stimata | 3:50 h |
 | Dislivello positivo (salita) | 183 m |
 | Dislivello negativo (discesa) | 1024 m |
+
+![Mappa](../../Extra/img/N1/tappa_17_dal_rifugio_bonatti_a_courmayeur/mappa_percorso.png)
 
 ---
 ## 🌄 Panoramica

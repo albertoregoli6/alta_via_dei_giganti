@@ -18,6 +18,8 @@
 | Dislivello positivo (salita) | 498 m |
 | Dislivello negativo (discesa) | 1697 m |
 
+![Mappa](../../Extra/img/N1/tappa_11_dal_rifugio_oratorio_di_cun_y_a_oyace/mappa_percorso.png)
+
 ---
 ## 🌄 Panoramica
 
@@ -96,6 +98,8 @@ L’undicesima tappa termina a Oyace, un piccolo centro della Valpelline, abbrac
 | Durata stimata | 5:45 h |
 | Dislivello positivo (salita) | 1146 m |
 | Dislivello negativo (discesa) | -1157 m |
+
+![Mappa](../../Extra/img/N1/tappa_12_da_oyace_a_ollomont/mappa_percorso.png)
 
 ---
 ## 🌄 Panoramica

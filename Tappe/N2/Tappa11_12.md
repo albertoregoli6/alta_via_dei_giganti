@@ -25,6 +25,10 @@
 | Dislivello positivo (salita) | 0 m |
 | Dislivello negativo (discesa) | 780 m |
 
+![Mappa](../../Extra/img/N2/11_rifugio_sogno_di_berdz_rifugio_dondena/mappa_percorso.png)
+
+![Mappa](../../Extra/img/N2/12_rifugio_dondena_champorcher/mappa_percorso.png)
+
 ---
 ## 🌄 Panoramica
 

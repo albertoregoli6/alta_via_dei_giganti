@@ -18,6 +18,8 @@
 | Dislivello positivo (salita) | 522 m |
 | Dislivello negativo (discesa) | 1324 m |
 
+![Mappa](../../Extra/img/N1/tappa_14_dal_rifugio_l_tey_champillon_a_saint_rh_my/mappa_percorso.png)
+
 ---
 ## 🌄 Panoramica
 
@@ -94,6 +96,8 @@ Le strutture ricettive a Saint-Rhémy e nei dintorni non mancano. Ti consiglio d
 | Durata stimata | 3:50 h |
 | Dislivello positivo (salita) | 905 m |
 | Dislivello negativo (discesa) | 20 m |
+
+![Mappa](../../Extra/img/N1/tappa_15_da_saint_rh_my_en_bosses_al_rifugio_frassati/mappa_percorso.png)
 
 ---
 ## 🌄 Panoramica

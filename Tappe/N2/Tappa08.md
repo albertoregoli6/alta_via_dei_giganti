@@ -18,6 +18,8 @@
 | Dislivello positivo (salita) | 301 m |
 | Dislivello negativo (discesa) | 643 m |
 
+![Mappa](../../Extra/img/N2/8_eaux_rousses_rifugio_vittorio_sella/mappa_percorso.png)
+
 ---
 ## 🌄 Panoramica
 

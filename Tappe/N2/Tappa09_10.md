@@ -18,6 +18,8 @@
 | Dislivello positivo (salita) | 0 m |
 | Dislivello negativo (discesa) | 1045 m |
 
+![Mappa](../../Extra/img/N2/9_rifugio_vittorio_sella_cogne/mappa_percorso.png)
+
 ---
 ## 🌄 Panoramica
 
@@ -96,6 +98,8 @@ Percorri controcorrente il corso del fiume, poi scendi lungo la pista forestale 
 | Durata stimata | 4:55 h |
 | Dislivello positivo (salita) | 1100 m |
 | Dislivello negativo (discesa) | 116 m |
+
+![Mappa](../../Extra/img/N2/10_cogne_rifugio_sogno_di_berdz/mappa_percorso.png)
 
 ---
 ## 🌄 Panoramica

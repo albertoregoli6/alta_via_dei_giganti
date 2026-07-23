@@ -18,6 +18,8 @@
 | Dislivello positivo (salita) | 1067 m |
 | Dislivello negativo (discesa) | 452 m |
 
+![Mappa](../../Extra/img/N1/tappa_7_da_crest_al_rifugio_grand_tournalin/mappa_percorso.png)
+
 ---
 ## 🌄 Panoramica
 

@@ -18,6 +18,8 @@
 | Dislivello positivo (salita) | 1281 m |
 | Dislivello negativo (discesa) | -1325 m |
 
+![Mappa](../../Extra/img/N2/7_rhemes_notre_dame_eaux_rousses/mappa_percorso.png)
+
 ---
 ## 🌄 Panoramica
 

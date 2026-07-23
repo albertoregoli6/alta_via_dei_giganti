@@ -18,6 +18,8 @@
 | Dislivello positivo (salita) | 1038 m |
 | Dislivello negativo (discesa) | 0 m |
 
+![Mappa](../../Extra/img/N1/tappa_13_da_ollomont_al_rifugio_l_tey_champillon/mappa_percorso.png)
+
 ---
 ## 🌄 Panoramica
 
