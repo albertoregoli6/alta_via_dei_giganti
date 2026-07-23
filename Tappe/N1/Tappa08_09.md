@@ -3,7 +3,7 @@
 ## 📊 Dati principali
 
 | Parametro KOMOOT | Valore |
-|---|---|
+| :--------------: | :----: |
 | Difficoltà | Moderato |
 | Distanza | 8.86 km |
 | Durata stimata | 4:08 h |
@@ -12,7 +12,7 @@
 | Dislivello negativo (discesa) | 1290 m |
 
 | Parametro ALTA_VIA_Pdf | Valore |
-|---|---|
+| :--------------------: | :----: |
 | Durata stimata | 3:45 h |
 | Dislivello positivo (salita) | 294 m |
 | Dislivello negativo (discesa) | 1317 m |
@@ -46,7 +46,7 @@ L’ultimo tratto di discesa si sviluppa tra boschi di larici e pianori erbosi, 
 ## 🥾 Tipi di percorso
 
 | Tipo di percorso | Lunghezza |
-|---|---|
+| :--------------: | :-------: |
 | Sentiero escursionistico alpino | 7.90 km |
 | Sentiero | 446 m |
 | Strada | 254 m |
@@ -56,7 +56,7 @@ L’ultimo tratto di discesa si sviluppa tra boschi di larici e pianori erbosi, 
 ## 🏔️ Superfici
 
 | Superficie | Lunghezza |
-|---|---|
+| :--------: | :-------: |
 | Naturale | 6.83 km |
 | Alpino | 1.29 km |
 | Non asfaltata | 179 m |
@@ -67,7 +67,7 @@ L’ultimo tratto di discesa si sviluppa tra boschi di larici e pianori erbosi, 
 ## ⛰️ Salite e discese
 
 | Segmento | Pendenza | Dislivello | Lunghezza |
-|---|---|---|---|
+| :------: | :------: | :--------: | :-------: |
 | Salita  | 17 % | 226 m | 1.32 km |
 | Discesa | 12 % | 114 m | 963 m |
 | Discesa | 21 % | 1166 m | 5.53 km |
@@ -81,7 +81,7 @@ L’ultimo tratto di discesa si sviluppa tra boschi di larici e pianori erbosi, 
 ## 📊 Dati principali
 
 | Parametro KOMOOT | Valore |
-|---|---|
+| :--------------: | :----: |
 | Difficoltà | Moderato |
 | Distanza | 4.81 km |
 | Durata stimata | 2:28 h |
@@ -90,7 +90,7 @@ L’ultimo tratto di discesa si sviluppa tra boschi di larici e pianori erbosi, 
 | Dislivello negativo (discesa) | 0 m |
 
 | Parametro ALTA_VIA_Pdf | Valore |
-|---|---|
+| :--------------------: | :----: |
 | Durata stimata | 2:10 h |
 | Dislivello positivo (salita) | 682 m |
 | Dislivello negativo (discesa) | 25 m |
@@ -120,29 +120,29 @@ Percorri lo sbarramento e raggiungi il Rifugio Barmasse, la meta della nona tapp
 ## 🥾 Tipi di percorso
 
 | Tipo di percorso | Lunghezza |
-|---|---|
+| :--------------: | :-------: |
 | Sentiero escursionistico alpino | 3.74 km |
-| Sentiero escursionistico | <100 m |
-| Sentiero | 151 km |
-| Strada | 399 m |
 | Strada secondaria | 423 m |
+| Strada | 399 m |
+| Sentiero | 151 m |
+| Sentiero escursionistico | <100 m |
 | Marciapiede | <100 m |
 
 ---
 ## 🏔️ Superfici
 
 | Superficie | Lunghezza |
-|---|---|
+| :--------: | :-------: |
 | Naturale | 3.91 km |
-| Sconosciuta | 435 km |
-| Asfalto | 165 m |
+| Sconosciuta | 435 m |
 | Lastricato | 304 m |
+| Asfalto | 165 m |
 
 ---
 ## ⛰️ Salite e discese
 
 | Segmento | Pendenza | Dislivello | Lunghezza |
-|---|---|---|---|
+| :------: | :------: | :--------: | :-------: |
 | Salita  | 16 % | 621 m | 3.80 km |
 
 ![Profilo altimetrico](../../Extra/img/profilo_altimetrico_tappa06.png)

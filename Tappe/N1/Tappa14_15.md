@@ -3,7 +3,7 @@
 ## 📊 Dati principali
 
 | Parametro KOMOOT | Valore |
-|---|---|
+| :--------------: | :----: |
 | Difficoltà | Difficile |
 | Distanza | 14.3 km |
 | Durata stimata | 5:52 h |
@@ -12,7 +12,7 @@
 | Dislivello negativo (discesa) | 1330 m |
 
 | Parametro ALTA_VIA_Pdf | Valore |
-|---|---|
+| :--------------------: | :----: |
 | Durata stimata | 5:05 h |
 | Dislivello positivo (salita) | 522 m |
 | Dislivello negativo (discesa) | 1324 m |
@@ -42,7 +42,7 @@ Le strutture ricettive a Saint-Rhémy e nei dintorni non mancano. Ti consiglio d
 ## 🥾 Tipi di percorso
 
 | Tipo di percorso | Lunghezza |
-|---|---|
+| :--------------: | :-------: |
 | Sentiero escursionistico alpino | 7.64 km |
 | Sentiero | 5.16 km |
 | Strada | 913 m |
@@ -53,7 +53,7 @@ Le strutture ricettive a Saint-Rhémy e nei dintorni non mancano. Ti consiglio d
 ## 🏔️ Superfici
 
 | Superficie | Lunghezza |
-|---|---|
+| :--------: | :-------: |
 | Alpino | 5.36 km |
 | Non asfaltata | 5.20 km |
 | Naturale | 2.81 km |
@@ -64,7 +64,7 @@ Le strutture ricettive a Saint-Rhémy e nei dintorni non mancano. Ti consiglio d
 ## ⛰️ Salite e discese
 
 | Segmento | Pendenza | Dislivello | Lunghezza |
-|---|---|---|---|
+| :------: | :------: | :--------: | :-------: |
 | Salita  | 22 % | 267 m | 1.24 km |
 | Salita  | 10 % | 164 m | 1.61 km |
 | Discesa | 18 % | 1101 m | 6.07 km |
@@ -79,7 +79,7 @@ Le strutture ricettive a Saint-Rhémy e nei dintorni non mancano. Ti consiglio d
 ## 📊 Dati principali
 
 | Parametro KOMOOT | Valore |
-|---|---|
+| :--------------: | :----: |
 | Difficoltà | Difficile |
 | Distanza | 10.7 km |
 | Durata stimata | 4:22 h |
@@ -88,7 +88,7 @@ Le strutture ricettive a Saint-Rhémy e nei dintorni non mancano. Ti consiglio d
 | Dislivello negativo (discesa) | 60 m |
 
 | Parametro ALTA_VIA_Pdf | Valore |
-|---|---|
+| :--------------------: | :----: |
 | Durata stimata | 3:50 h |
 | Dislivello positivo (salita) | 905 m |
 | Dislivello negativo (discesa) | 20 m |
@@ -119,7 +119,7 @@ Il Rifugio Pier Giorgio Frassati è intitolato a un giovane ragazzo biellese, og
 ## 🥾 Tipi di percorso
 
 | Tipo di percorso | Lunghezza |
-|---|---|
+| :--------------: | :-------: |
 | Sentiero escursionistico alpino | 4.51 km |
 | Sentiero | 2.83 km |
 | Strada | 2.69 km |
@@ -131,7 +131,7 @@ Il Rifugio Pier Giorgio Frassati è intitolato a un giovane ragazzo biellese, og
 ## 🏔️ Superfici
 
 | Superficie | Lunghezza |
-|---|---|
+| :--------: | :-------: |
 | Alpino | 4.51 km |
 | Naturale | 3.18 km |
 | Lastricato | 1.33 km |

@@ -3,7 +3,7 @@
 ## 📊 Dati principali
 
 | Parametro KOMOOT | Valore |
-|---|---|
+| :--------------: | :----: |
 | Difficoltà | Difficile |
 | Distanza | 14.6 km |
 | Durata stimata | 6:28 h |
@@ -12,7 +12,7 @@
 | Dislivello negativo (discesa) | 1670 m |
 
 | Parametro ALTA_VIA_Pdf | Valore |
-|---|---|
+| :--------------------: | :----: |
 | Durata stimata | 5:15 h |
 | Dislivello positivo (salita) | 498 m |
 | Dislivello negativo (discesa) | 1697 m |
@@ -43,27 +43,27 @@ L’undicesima tappa termina a Oyace, un piccolo centro della Valpelline, abbrac
 ## 🥾 Tipi di percorso
 
 | Tipo di percorso | Lunghezza |
-|---|---|
+| :--------------: | :-------: |
 | Sentiero escursionistico alpino | 14.0 km |
 | Sentiero | 402 km |
-| Strada | <100 m |
 | Strada secondaria | 179 m |
+| Strada | <100 m |
 
 ---
 ## 🏔️ Superfici
 
 | Superficie | Lunghezza |
-|---|---|
-| Naturale | <100 km |
+| :--------: | :-------: |
 | Alpino | 14.2 km |
-| Asfalto | 228 m |
 | Non asfaltata | 259 m |
+| Asfalto | 228 m |
+| Naturale | <100 m |
 
 ---
 ## ⛰️ Salite e discese
 
 | Segmento | Pendenza | Dislivello | Lunghezza |
-|---|---|---|---|
+| :------: | :------: | :--------: | :-------: |
 | Salita  | 9 % | 127 m | 1.39 km |
 | Salita  | 15 % | 129 m | 852 m |
 | Salita  | 10 % | 66 m | 697 m |
@@ -81,7 +81,7 @@ L’undicesima tappa termina a Oyace, un piccolo centro della Valpelline, abbrac
 ## 📊 Dati principali
 
 | Parametro KOMOOT | Valore |
-|---|---|
+| :--------------: | :----: |
 | Difficoltà | Difficile |
 | Distanza | 12.4 km |
 | Durata stimata | 6:13 h |
@@ -90,7 +90,7 @@ L’undicesima tappa termina a Oyace, un piccolo centro della Valpelline, abbrac
 | Dislivello negativo (discesa) | 1110 m |
 
 | Parametro ALTA_VIA_Pdf | Valore |
-|---|---|
+| :--------------------: | :----: |
 | Durata stimata | 5:45 h |
 | Dislivello positivo (salita) | 1146 m |
 | Dislivello negativo (discesa) | -1157 m |
@@ -121,29 +121,29 @@ Questo piccolo borgo alpino è incorniciato da vette imponenti e un’infinità 
 ## 🥾 Tipi di percorso
 
 | Tipo di percorso | Lunghezza |
-|---|---|
+| :--------------: | :-------: |
 | Sentiero escursionistico alpino | 8.62 km |
 | Sentiero | 3.30 km |
-| Strada | <100 m |
 | Strada secondaria | 315 m |
+| Strada | <100 m |
 | Marciapiede | 154  m |
 
 ---
 ## 🏔️ Superfici
 
 | Superficie | Lunghezza |
-|---|---|
+| :--------: | :-------: |
 | Naturale | 11.3 km |
-| Alpino | 264 m |
-| Asfalto | 325 m |
 | Non asfaltata | 437 m |
+| Asfalto | 325 m |
+| Alpino | 264 m |
 | Sconosciuta | 128 m |
 
 ---
 ## ⛰️ Salite e discese
 
 | Segmento | Pendenza | Dislivello | Lunghezza |
-|---|---|---|---|
+| :------: | :------: | :--------: | :-------: |
 | Salita  | 16 % | 1092 m | 6.68 km |
 | Discesa | 19 % | 1107 m | 5.92 km |
 

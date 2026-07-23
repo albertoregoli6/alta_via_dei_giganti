@@ -3,7 +3,7 @@
 ## 📊 Dati principali
 
 | Parametro KOMOOT | Valore |
-|---|---|
+| :--------------: | :----: |
 | Difficoltà | Difficile |
 | Distanza | 12,8 km |
 | Durata stimata | 06:49 h |
@@ -12,7 +12,7 @@
 | Dislivello negativo (discesa) | 860 m |
 
 | Parametro ALTA_VIA_Pdf | Valore |
-|---|---|
+| :--------------------: | :----: |
 | Durata stimata | 06:30 h |
 | Dislivello positivo (salita) | 1.247 m |
 | Dislivello negativo (discesa) | 890 m |
@@ -43,7 +43,7 @@ Il sentiero attraversa un vallone detritico, un ripiano erboso e raggiunge la pi
 ## 🥾 Tipi di percorso
 
 | Tipo di percorso | Lunghezza |
-|---|---|
+| :--------------: | :-------: |
 | Sentiero escursionistico alpino | 10,2 km |
 | Sentiero | 2,09 km |
 | Strada | 277 m |
@@ -54,7 +54,7 @@ Il sentiero attraversa un vallone detritico, un ripiano erboso e raggiunge la pi
 ## 🏔️ Superfici
 
 | Superficie | Lunghezza |
-|---|---|
+| :--------: | :-------: |
 | Naturale | 8,39 km |
 | Alpino | 3,30 km |
 | Asfalto | 499 m |
@@ -66,7 +66,7 @@ Il sentiero attraversa un vallone detritico, un ripiano erboso e raggiunge la pi
 ## ⛰️ Salite e discese
 
 | Segmento | Pendenza | Dislivello | Lunghezza |
-|---|---|---|---|
+| :------: | :------: | :--------: | :-------: |
 | Salita  | 22 % | 1.320 m | 6,01 km |
 | Discesa | 19 % | 855 m | 4,47 km |
 

@@ -3,7 +3,7 @@
 ## 📊 Dati principali
 
 | Parametro KOMOOT | Valore |
-|---|---|
+| :--------------: | :----: |
 | Difficoltà | Moderato |
 | Distanza | 8.60 km |
 | Durata stimata | 3:15 h |
@@ -12,7 +12,7 @@
 | Dislivello negativo (discesa) | 1030 m |
 
 | Parametro ALTA_VIA_Pdf | Valore |
-|---|---|
+| :--------------------: | :----: |
 | Durata stimata | 2:25 h |
 | Dislivello positivo (salita) | 0 m |
 | Dislivello negativo (discesa) | 1045 m |
@@ -45,7 +45,7 @@ Percorri controcorrente il corso del fiume, poi scendi lungo la pista forestale 
 ## 🥾 Tipi di percorso
 
 | Tipo di percorso | Lunghezza |
-|---|---|
+| :--------------: | :-------: |
 | Sentiero escursionistico alpino | 5.55 km |
 | Sentiero | 1.88 km |
 | Marciapiede | 927 m |
@@ -57,7 +57,7 @@ Percorri controcorrente il corso del fiume, poi scendi lungo la pista forestale 
 ## 🏔️ Superfici
 
 | Superficie | Lunghezza |
-|---|---|
+| :--------: | :-------: |
 | Alpino | 5.51 km |
 | Naturale | 774 m |
 | Sterrato | 772 m |
@@ -70,7 +70,7 @@ Percorri controcorrente il corso del fiume, poi scendi lungo la pista forestale 
 ## ⛰️ Salite e discese
 
 | Segmento | Pendenza | Dislivello | Lunghezza |
-|---|---|---|---|
+| :------: | :------: | :--------: | :-------: |
 | Discesa  | 16 % | 910 m | 5.73 km |
 
 ![Profilo altimetrico](../../Extra/img/profilo_altimetrico_tappa06.png)
@@ -81,7 +81,7 @@ Percorri controcorrente il corso del fiume, poi scendi lungo la pista forestale 
 ## 📊 Dati principali
 
 | Parametro KOMOOT | Valore |
-|---|---|
+| :--------------: | :----: |
 | Difficoltà | Difficile |
 | Distanza | 13.9 km |
 | Durata stimata | 5:26 h |
@@ -90,7 +90,7 @@ Percorri controcorrente il corso del fiume, poi scendi lungo la pista forestale 
 | Dislivello negativo (discesa) | 10 m |
 
 | Parametro ALTA_VIA_Pdf | Valore |
-|---|---|
+| :--------------------: | :----: |
 | Durata stimata | 4:55 h |
 | Dislivello positivo (salita) | 1100 m |
 | Dislivello negativo (discesa) | 116 m |
@@ -125,7 +125,7 @@ Abbandonato il bosco, il sentiero si fa via via più pianeggiante, attraversa am
 ## 🥾 Tipi di percorso
 
 | Tipo di percorso | Lunghezza |
-|---|---|
+| :--------------: | :-------: |
 | Sentiero escursionistico alpino | 7.84 km |
 | Sentiero | 4.05 km |
 | Sentiero escursionistico | 1.70 km |
@@ -137,7 +137,7 @@ Abbandonato il bosco, il sentiero si fa via via più pianeggiante, attraversa am
 ## 🏔️ Superfici
 
 | Superficie | Lunghezza |
-|---|---|
+| :--------: | :-------: |
 | Alpino | 6.83 km |
 | Non asfaltata | 2.85 km |
 | Naturale | 2.79 km |
@@ -149,7 +149,7 @@ Abbandonato il bosco, il sentiero si fa via via più pianeggiante, attraversa am
 ## ⛰️ Salite e discese
 
 | Segmento | Pendenza | Dislivello | Lunghezza |
-|---|---|---|---|
+| :------: | :------: | :--------: | :-------: |
 | Salita  | 9 % | 226 m | 2.52 km |
 | Salita  | 11 % | 544 m | 5.06 km |
 | Salita  | 5 % | 100 m | 1.87 km |

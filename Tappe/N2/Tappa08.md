@@ -3,7 +3,7 @@
 ## 📊 Dati principali
 
 | Parametro KOMOOT | Valore |
-|---|---|
+| :--------------: | :----: |
 | Difficoltà | Difficile |
 | Distanza | 17.2 km |
 | Durata stimata | 8:24 h |
@@ -12,7 +12,7 @@
 | Dislivello negativo (discesa) | 680 m |
 
 | Parametro ALTA_VIA_Pdf | Valore |
-|---|---|
+| :--------------------: | :----: |
 | Durata stimata | 2:30 h |
 | Dislivello positivo (salita) | 301 m |
 | Dislivello negativo (discesa) | 643 m |
@@ -43,7 +43,7 @@ La discesa dal valico alpino è decisamente più dolce: il primo tratto è su pi
 ## 🥾 Tipi di percorso
 
 | Tipo di percorso | Lunghezza |
-|---|---|
+| :--------------: | :-------: |
 | Sentiero escursionistico alpino | 16.2 km |
 | Sentiero escursionistico alpino | 887 m |
 | Sentiero escursionistico | <100 m |
@@ -54,7 +54,7 @@ La discesa dal valico alpino è decisamente più dolce: il primo tratto è su pi
 ## 🏔️ Superfici
 
 | Superficie | Lunghezza |
-|---|---|
+| :--------: | :-------: |
 | Alpino | 10.2 km |
 | Naturale | 6.86 km |
 | Non asfaltata | <100 m |
@@ -64,7 +64,7 @@ La discesa dal valico alpino è decisamente più dolce: il primo tratto è su pi
 ## ⛰️ Salite e discese
 
 | Segmento | Pendenza | Dislivello | Lunghezza |
-|---|---|---|---|
+| :------: | :------: | :--------: | :-------: |
 | Salita  | 12 % | 628 m | 5.10 km |
 | Salita  | 14 % | 135 m | 969 m |
 | Salita  | 14 % | 833 m | 5.81 m |

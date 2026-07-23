@@ -3,7 +3,7 @@
 ## 📊 Dati principali
 
 | Parametro KOMOOT | Valore |
-|---|---|
+| :--------------: | :----: |
 | Difficoltà | Difficile |
 | Distanza | 5.58 km |
 | Durata stimata | 3:14 h |
@@ -12,7 +12,7 @@
 | Dislivello negativo (discesa) | 0 m |
 
 | Parametro ALTA_VIA_Pdf | Valore |
-|---|---|
+| :--------------------: | :----: |
 | Durata stimata | 3:05 h |
 | Dislivello positivo (salita) | 1038 m |
 | Dislivello negativo (discesa) | 0 m |
@@ -42,7 +42,7 @@ Un ultimo sforzo ed eccoti al Rifugio Letey-Champillon, da cui puoi godere di un
 ## 🥾 Tipi di percorso
 
 | Tipo di percorso | Lunghezza |
-|---|---|
+| :--------------: | :-------: |
 | Sentiero escursionistico alpino | 3.30 km |
 | Sentiero | 1.17 km |
 | Strada | 689 m |
@@ -52,7 +52,7 @@ Un ultimo sforzo ed eccoti al Rifugio Letey-Champillon, da cui puoi godere di un
 ## 🏔️ Superfici
 
 | Superficie | Lunghezza |
-|---|---|
+| :--------: | :-------: |
 | Naturale | 3.27 km |
 | Alpino | 1.56 km |
 | Asfalto | 663 m |
@@ -63,9 +63,8 @@ Un ultimo sforzo ed eccoti al Rifugio Letey-Champillon, da cui puoi godere di un
 ## ⛰️ Salite e discese
 
 | Segmento | Pendenza | Dislivello | Lunghezza |
-|---|---|---|---|
-| Salita  |  % |  m | km |
-| Discesa |  % |  m | km |
+| :------: | :------: | :--------: | :-------: |
+| Salita  | 21 % | 1030 m | 4.9 km |
 
 ![Profilo altimetrico](../../Extra/img/profilo_altimetrico_tappa06.png)
 

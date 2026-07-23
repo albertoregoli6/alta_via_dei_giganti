@@ -3,7 +3,7 @@
 ## 📊 Dati principali
 
 | Parametro KOMOOT | Valore |
-|---|---|
+| :--------------: | :----: |
 | Difficoltà | Difficile |
 | Distanza | 11.1 km |
 | Durata stimata | 5:08 h |
@@ -12,7 +12,7 @@
 | Dislivello negativo (discesa) | 450 m |
 
 | Parametro ALTA_VIA_Pdf | Valore |
-|---|---|
+| :--------------------: | :----: |
 | Durata stimata | 4:50 h |
 | Dislivello positivo (salita) | 1067 m |
 | Dislivello negativo (discesa) | 452 m |
@@ -47,7 +47,7 @@ Un ultimo strappo ed eccoti al Rifugio Grand Tournalin!
 ## 🥾 Tipi di percorso
 
 | Tipo di percorso | Lunghezza |
-|---|---|
+| :--------------: | :-------: |
 | Sentiero escursionistico alpino | 6.88 km |
 | Sentiero | 3.5 km |
 | Sentiero escursionistico | 431 m |
@@ -59,7 +59,7 @@ Un ultimo strappo ed eccoti al Rifugio Grand Tournalin!
 ## 🏔️ Superfici
 
 | Superficie | Lunghezza |
-|---|---|
+| :--------: | :-------: |
 | Naturale | 10.5 km |
 | Asfalto | 200 m |
 | Non asfaltata | 327 m |
@@ -69,7 +69,7 @@ Un ultimo strappo ed eccoti al Rifugio Grand Tournalin!
 ## ⛰️ Salite e discese
 
 | Segmento | Pendenza | Dislivello | Lunghezza |
-|---|---|---|---|
+| :------: | :------: | :--------: | :-------: |
 | Salita  | 9 % | 83 m | 966 m |
 | Salita  | 7 % | 87 m | 1.17 km |
 | Salita  | 17 % | 837 m | 5.07 m |

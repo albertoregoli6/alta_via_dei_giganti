@@ -3,7 +3,7 @@
 ## 📊 Dati principali
 
 | Parametro KOMOOT | Valore |
-|---|---|
+| :--------------: | :----: |
 | Difficoltà | Difficile |
 | Distanza | 14.8 km |
 | Durata stimata | 5:30 h |
@@ -12,13 +12,13 @@
 | Dislivello negativo (discesa) | 1400 m |
 
 | Parametro ALTA_VIA_Pdf | Valore |
-|---|---|
+| :--------------------: | :----: |
 | Durata stimata | 2:30 h |
 | Dislivello positivo (salita) | 301 m |
 | Dislivello negativo (discesa) | 643 m |
 
 | Parametro ALTA_VIA_Pdf | Valore |
-|---|---|
+| :--------------------: | :----: |
 | Durata stimata | 2:00 h |
 | Dislivello positivo (salita) | 0 m |
 | Dislivello negativo (discesa) | 780 m |
@@ -53,7 +53,7 @@ Una larga strada in pietra ti guida verso il centro di Chardonney. Quest’opera
 ## 🥾 Tipi di percorso
 
 | Tipo di percorso | Lunghezza |
-|---|---|
+| :--------------: | :-------: |
 | Sentiero escursionistico alpino | 7.89 km |
 | Sentiero | 4.91 km |
 | Sentiero escursionistico | 1.50 km |
@@ -65,7 +65,7 @@ Una larga strada in pietra ti guida verso il centro di Chardonney. Quest’opera
 ## 🏔️ Superfici
 
 | Superficie | Lunghezza |
-|---|---|
+| :--------: | :-------: |
 | Naturale | 7.41 km |
 | Alpino | 5.73 km |
 | Lastricato | 690 m |
@@ -78,7 +78,7 @@ Una larga strada in pietra ti guida verso il centro di Chardonney. Quest’opera
 ## ⛰️ Salite e discese
 
 | Segmento | Pendenza | Dislivello | Lunghezza |
-|---|---|---|---|
+| :------: | :------: | :--------: | :-------: |
 | Salita  | 13 % | 264 m | 2.00 km |
 | Discesa | 11 % | 797 m | 7.45 km |
 | Discesa | 15 % | 551 m | 3.56 km |

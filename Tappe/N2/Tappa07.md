@@ -3,7 +3,7 @@
 ## 📊 Dati principali
 
 | Parametro KOMOOT | Valore |
-|---|---|
+| :--------------: | :----: |
 | Difficoltà | Difficile |
 | Distanza | 15.8 km |
 | Durata stimata | 8:36 h |
@@ -12,7 +12,7 @@
 | Dislivello negativo (discesa) | 1350 m |
 
 | Parametro ALTA_VIA_Pdf | Valore |
-|---|---|
+| :--------------------: | :----: |
 | Durata stimata | 6:40 h |
 | Dislivello positivo (salita) | 1281 m |
 | Dislivello negativo (discesa) | -1325 m |
@@ -45,7 +45,7 @@ Boschi di larice e pascoli si susseguono e ti accompagnano lungo l’ultima disc
 ## 🥾 Tipi di percorso
 
 | Tipo di percorso | Lunghezza |
-|---|---|
+| :--------------: | :-------: |
 | Sentiero escursionistico alpino | 7.50 km |
 | Sentiero escursionistico alpino | 4.74 km |
 | Sentiero escursionistico | 3.28 km |
@@ -58,7 +58,7 @@ Boschi di larice e pascoli si susseguono e ti accompagnano lungo l’ultima disc
 ## 🏔️ Superfici
 
 | Superficie | Lunghezza |
-|---|---|
+| :--------: | :-------: |
 | Alpino | 9.95 km |
 | Naturale | 5.46 km |
 | Non asfaltata | 139 m |
@@ -70,7 +70,7 @@ Boschi di larice e pascoli si susseguono e ti accompagnano lungo l’ultima disc
 ## ⛰️ Salite e discese
 
 | Segmento | Pendenza | Dislivello | Lunghezza |
-|---|---|---|---|
+| :------: | :------: | :--------: | :-------: |
 | Salita  | 22 % | 1261 m | 5.76 km |
 | Discesa | 15 % | 677 m | 4.44 km |
 | Discesa | 13 % | 667 m | 5.14 km |

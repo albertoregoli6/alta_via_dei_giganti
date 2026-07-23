@@ -3,7 +3,7 @@
 ## 📊 Dati principali
 
 | Parametro KOMOOT | Valore |
-|---|---|
+| :--------------: | :----: |
 | Difficoltà | Difficile |
 | Distanza | 7.99 km |
 | Durata stimata | 3:46 h |
@@ -12,7 +12,7 @@
 | Dislivello negativo (discesa) | 860 m |
 
 | Parametro ALTA_VIA_Pdf | Valore |
-|---|---|
+| :--------------------: | :----: |
 | Durata stimata | 3:05 h |
 | Dislivello positivo (salita) | 430 m |
 | Dislivello negativo (discesa) | 903 m |
@@ -43,7 +43,7 @@ Ultimo tratto in discesa ed eccoti al Rifugio Walter Bonatti, dedicato a uno dei
 ## 🥾 Tipi di percorso
 
 | Tipo di percorso | Lunghezza |
-|---|---|
+| :--------------: | :-------: |
 | Sentiero escursionistico alpino | 5.95 km |
 | Sentiero escursionistico alpino | 1.55 km |
 | Sentiero escursionistico | 466 m |
@@ -52,7 +52,7 @@ Ultimo tratto in discesa ed eccoti al Rifugio Walter Bonatti, dedicato a uno dei
 ## 🏔️ Superfici
 
 | Superficie | Lunghezza |
-|---|---|
+| :--------: | :-------: |
 | Alpino | 7.50 km |
 | Non asfaltata | 466 m |
 
@@ -60,7 +60,7 @@ Ultimo tratto in discesa ed eccoti al Rifugio Walter Bonatti, dedicato a uno dei
 ## ⛰️ Salite e discese
 
 | Segmento | Pendenza | Dislivello | Lunghezza |
-|---|---|---|---|
+| :------: | :------: | :--------: | :-------: |
 | Salita  | 15 % | 332 m | 2.20 km |
 | Discesa | 19 % | 528 m | 2.81 km |
 | Discesa | 12 % | 335 m | 2.73 km |
@@ -73,7 +73,7 @@ Ultimo tratto in discesa ed eccoti al Rifugio Walter Bonatti, dedicato a uno dei
 ## 📊 Dati principali
 
 | Parametro KOMOOT | Valore |
-|---|---|
+| :--------------: | :----: |
 | Difficoltà | Difficile |
 | Distanza | 12.0 km |
 | Durata stimata | 4:35 h |
@@ -82,7 +82,7 @@ Ultimo tratto in discesa ed eccoti al Rifugio Walter Bonatti, dedicato a uno dei
 | Dislivello negativo (discesa) | 1010 m |
 
 | Parametro ALTA_VIA_Pdf | Valore |
-|---|---|
+| :--------------------: | :----: |
 | Durata stimata | 3:50 h |
 | Dislivello positivo (salita) | 183 m |
 | Dislivello negativo (discesa) | 1024 m |
@@ -116,9 +116,9 @@ Da qui puoi raggiungere in bus Aosta e da lì prendere un treno per le diverse l
 ## 🥾 Tipi di percorso
 
 | Tipo di percorso | Lunghezza |
-|---|---|
+| :--------------: | :-------: |
 | Sentiero escursionistico alpino | 9.76 km |
-| Strada | 1.22 m |
+| Strada | 1.22 km |
 | Strada secondaria | 393 m |
 | Sentiero escursionistico | 312 m |
 | Marciapiede | 148 m |
@@ -129,7 +129,7 @@ Da qui puoi raggiungere in bus Aosta e da lì prendere un treno per le diverse l
 ## 🏔️ Superfici
 
 | Superficie | Lunghezza |
-|---|---|
+| :--------: | :-------: |
 | Alpino | 7.76 km |
 | Non asfaltata | 2.69 km |
 | Lastricato | 1.41 km |
@@ -141,7 +141,7 @@ Da qui puoi raggiungere in bus Aosta e da lì prendere un treno per le diverse l
 ## ⛰️ Salite e discese
 
 | Segmento | Pendenza | Dislivello | Lunghezza |
-|---|---|---|---|
+| :------: | :------: | :--------: | :-------: |
 | Salita  | 10 % | 71 m | 711 m |
 | Discesa | 13 % | 65 m | 521 m |
 | Discesa | 8 % | 54 m | 656 m |

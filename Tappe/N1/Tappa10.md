@@ -3,7 +3,7 @@
 ## 📊 Dati principali
 
 | Parametro KOMOOT | Valore |
-|---|---|
+| :--------------: | :----: |
 | Difficoltà | Difficile |
 | Distanza | 16.3 km |
 | Durata stimata | 7:48 h |
@@ -12,7 +12,7 @@
 | Dislivello negativo (discesa) | 770 m |
 
 | Parametro ALTA_VIA_Pdf | Valore |
-|---|---|
+| :--------------------: | :----: |
 | Durata stimata | 6:15 h |
 | Dislivello positivo (salita) | 1233 m |
 | Dislivello negativo (discesa) | 770 m |
@@ -44,7 +44,7 @@ Raggiungi il Col Terray e poi l’Oratorio di Cuney, un luogo affascinante e ric
 ## 🥾 Tipi di percorso
 
 | Tipo di percorso | Lunghezza |
-|---|---|
+| :--------------: | :-------: |
 | Sentiero escursionistico alpino | 10.3 km |
 | Sentiero escursionistico alpino | 3.9 km |
 | Sentiero | 1.53 km |
@@ -54,17 +54,17 @@ Raggiungi il Col Terray e poi l’Oratorio di Cuney, un luogo affascinante e ric
 ## 🏔️ Superfici
 
 | Superficie | Lunghezza |
-|---|---|
-| Naturale | 5.19 km |
+| :--------: | :-------: |
 | Alpino | 9.28 km |
-| Non asfaltata | 901 m |
+| Naturale | 5.19 km |
 | Sterrato | 919 m |
+| Non asfaltata | 901 m |
 
 ---
 ## ⛰️ Salite e discese
 
 | Segmento | Pendenza | Dislivello | Lunghezza |
-|---|---|---|---|
+| :------: | :------: | :--------: | :-------: |
 | Salita  | 18 % | 349 m | 1.95 km |
 | Salita  | 8 %  | 123 m | 1.55 km |
 | Salita  | 15 % | 122 m | 808 m |
